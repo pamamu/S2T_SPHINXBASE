@@ -10,6 +10,13 @@ RUN lib/sphinxbase/configure
 RUN make -C lib/sphinxbase
 RUN make install -C lib/sphinxbase
 
+RUN apk add --update perl
+RUN make -C lib/sphinxtrain
+RUN make install -C lib/sphinxtrain
+
+RUN make -C lib/pocketsphinx
+RUN make install -C lib/pocketsphinx
+
 RUN pip install -r requirements.txt
 
 #CMD ["cat", "src/app.py"]
