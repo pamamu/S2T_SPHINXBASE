@@ -1,5 +1,5 @@
 
 \.idea/
-
+\lib
 *.pyc
 src/__pycache__/
