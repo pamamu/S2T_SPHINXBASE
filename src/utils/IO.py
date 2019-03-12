@@ -6,6 +6,7 @@ import shutil
 info_file = 'resources/info.json'
 config_file = 'config.json'
 tmp_folder = 'resources/tmp'
+tmp_main_folder = 'audios'
 
 
 # IO
@@ -64,7 +65,54 @@ def read_config_file():
 
 # GETS
 
+def get_sphinxtrain_folder():
+    """
+    TODO DOCUMENTATION
+    :return:
+    """
+    return read_info_file()['sphinxtrain_bin']
+
+
+def get_base_model_path():
+    """
+    TODO DOCUMENTATION
+    :return:
+    """
+    return read_info_file()['base_model_path']
+
+
+def get_tmp_main_folder():
+    """
+    TODO DOCUMENTATION
+    :return:
+    """
+    path = os.path.join(tmp_folder, tmp_main_folder)
+    if not os.path.exists(path):
+        os.makedirs(path)
+    return path
+
+
+def get_counts_folder():
+    """
+    TODO DOCUMENTATION
+    :return:
+    """
+    path = os.path.join(get_tmp_main_folder(), 'counts')
+    if not os.path.exists(path):
+        os.makedirs(path)
+    return path
+
+
 # SAVE
+
+def save_new_model(model_path):
+    """
+    TODO DOCUMENTATION
+    :param model_path:
+    :return:
+    """
+    shutil.rmtree(get_base_model_path())
+    shutil.copytree(model_path, get_base_model_path())
 
 
 def save_response(output_path, files):
@@ -85,6 +133,27 @@ def save_response(output_path, files):
     return out
 
 
+def copy_acoustic_model():
+    """
+    TODO DOCUMENTATION
+    :return:
+    """
+    destination_path = os.path.join(get_tmp_main_folder(), 'es')
+    if os.path.isdir(destination_path):
+        shutil.rmtree(destination_path)
+    shutil.copytree(get_base_model_path(), destination_path)
+    return destination_path
+
+
+def copy_dict(dict_path):
+    """
+    TODO DOCUMENTATION
+    :param dict_path:
+    :return:
+    """
+    shutil.copy(dict_path, os.path.join(get_tmp_main_folder(), 'es.dic'))
+
+
 # CLEAN
 
 
@@ -94,4 +163,19 @@ def clean_tmp_folder():
     :return:
     """
     shutil.rmtree(tmp_folder)
+    os.mkdir(tmp_folder)
+    print("OK")
 
+
+def process_output(output_folder):
+    """
+    TODO DOCUMENTATION
+    :param model_folder:
+    :param output_folder:
+    :return:
+    """
+    destination_path = os.path.join(output_folder, 'es-es_acoustic_model')
+    if os.path.isdir(destination_path):
+        shutil.rmtree(destination_path)
+    shutil.copytree(get_base_model_path(), destination_path)
+    return destination_path
