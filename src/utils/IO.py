@@ -2,6 +2,7 @@ import json
 import os
 
 import shutil
+import socket
 
 info_file = 'resources/info.json'
 config_file = 'config.json'
@@ -179,3 +180,11 @@ def process_output(output_folder):
         shutil.rmtree(destination_path)
     shutil.copytree(get_base_model_path(), destination_path)
     return destination_path
+
+
+def get_ip():
+    """
+    TODO DOCUMENTATION
+    :return:
+    """
+    return socket.gethostbyname(socket.gethostname())
