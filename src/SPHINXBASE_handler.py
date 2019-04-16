@@ -51,7 +51,7 @@ class SPHINXBASEHandler(ContainerHandler):
 
         save_new_model(model_folder)
 
-        clean_tmp_folder()
+        # clean_tmp_folder()
 
         return process_output(output_folder)
 
