@@ -1,0 +1,5 @@
+{
+  "audio_info_path": "resources/input/info_json.json",
+  "language_model": "resources/input/model7.lm",
+  "dictionary": "resources/input/es.dic"
+}
