@@ -3,3 +3,6 @@
 \lib
 *.pyc
 src/__pycache__/
+resources/tmp
+
+.DS_Store
