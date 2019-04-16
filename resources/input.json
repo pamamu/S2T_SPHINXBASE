@@ -1,3 +1,5 @@
 {
-"audio_info_path": "/srv/shared_folder/audio_5m/info.json"
+  "audio_info_path": "/srv/shared_folder/info.json",
+  "language_model": "/srv/model.lm",
+  "dictionary": "/srv/shared_folder/es.dic"
 }

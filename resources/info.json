@@ -1,0 +1,4 @@
+{
+  "sphinxtrain_bin": "/usr/local/libexec/sphinxtrain",
+  "base_model_path": "resources/model/es"
+}

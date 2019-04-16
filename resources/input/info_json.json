@@ -1,0 +1,5540 @@
+[
+    {
+        "path": "/srv/shared_folder/audio_5m/0.wav",
+        "start_time": 0.0,
+        "end_time": 2.533,
+        "voices": [
+            {
+                "voice": "Voz 1995",
+                "start_time": 0.09,
+                "end_time": 2.533,
+                "trans": [
+                    {
+                        "text": "las",
+                        "start_time": 0.09,
+                        "end_time": 0.54
+                    },
+                    {
+                        "text": "once",
+                        "start_time": 0.54,
+                        "end_time": 0.9
+                    },
+                    {
+                        "text": "las",
+                        "start_time": 0.9,
+                        "end_time": 1.17
+                    },
+                    {
+                        "text": "diez",
+                        "start_time": 1.17,
+                        "end_time": 1.47
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 1.47,
+                        "end_time": 1.59
+                    },
+                    {
+                        "text": "Canarias",
+                        "start_time": 1.59,
+                        "end_time": 7.23
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/1.wav",
+        "start_time": 2.797,
+        "end_time": 11.875,
+        "voices": [
+            {
+                "voice": "Voz 1995",
+                "start_time": 2.797,
+                "end_time": 9.9,
+                "trans": [
+                    {
+                        "text": "Antonio",
+                        "start_time": 7.23,
+                        "end_time": 7.62
+                    },
+                    {
+                        "text": "Martín",
+                        "start_time": 7.62,
+                        "end_time": 7.91
+                    },
+                    {
+                        "text": "muy",
+                        "start_time": 7.91,
+                        "end_time": 8.01
+                    },
+                    {
+                        "text": "buenos",
+                        "start_time": 8.01,
+                        "end_time": 8.22
+                    },
+                    {
+                        "text": "días",
+                        "start_time": 8.22,
+                        "end_time": 8.55
+                    },
+                    {
+                        "text": "al",
+                        "start_time": 8.55,
+                        "end_time": 8.72
+                    },
+                    {
+                        "text": "Tony",
+                        "start_time": 8.72,
+                        "end_time": 8.97
+                    },
+                    {
+                        "text": "buenos",
+                        "start_time": 8.97,
+                        "end_time": 9.21
+                    },
+                    {
+                        "text": "días",
+                        "start_time": 9.21,
+                        "end_time": 9.42
+                    },
+                    {
+                        "text": "Pablo",
+                        "start_time": 9.42,
+                        "end_time": 9.9
+                    }
+                ]
+            },
+            {
+                "voice": "Voz 1762",
+                "start_time": 9.9,
+                "end_time": 11.875,
+                "trans": [
+                    {
+                        "text": "sí",
+                        "start_time": 9.9,
+                        "end_time": 10.07
+                    },
+                    {
+                        "text": "reconoce",
+                        "start_time": 10.07,
+                        "end_time": 10.5
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 10.5,
+                        "end_time": 10.59
+                    },
+                    {
+                        "text": "es",
+                        "start_time": 10.59,
+                        "end_time": 10.68
+                    },
+                    {
+                        "text": "difícil",
+                        "start_time": 10.68,
+                        "end_time": 11.07
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 11.07,
+                        "end_time": 11.16
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 11.16,
+                        "end_time": 11.31
+                    },
+                    {
+                        "text": "presupuestos",
+                        "start_time": 11.31,
+                        "end_time": 11.84
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 11.84,
+                        "end_time": 11.97
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/2.wav",
+        "start_time": 12.287,
+        "end_time": 16.563,
+        "voices": [
+            {
+                "voice": "Voz 1762",
+                "start_time": 12.287,
+                "end_time": 16.563,
+                "trans": [
+                    {
+                        "text": "acordado",
+                        "start_time": 12.39,
+                        "end_time": 12.78
+                    },
+                    {
+                        "text": "con",
+                        "start_time": 12.78,
+                        "end_time": 12.96
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 12.96,
+                        "end_time": 13.05
+                    },
+                    {
+                        "text": "Gobierno",
+                        "start_time": 13.05,
+                        "end_time": 13.53
+                    },
+                    {
+                        "text": "puedan",
+                        "start_time": 13.53,
+                        "end_time": 13.89
+                    },
+                    {
+                        "text": "salir",
+                        "start_time": 13.89,
+                        "end_time": 14.19
+                    },
+                    {
+                        "text": "adelante",
+                        "start_time": 14.19,
+                        "end_time": 14.56
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 14.56,
+                        "end_time": 14.6
+                    },
+                    {
+                        "text": "líder",
+                        "start_time": 14.6,
+                        "end_time": 14.82
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 14.82,
+                        "end_time": 14.88
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 14.88,
+                        "end_time": 14.94
+                    },
+                    {
+                        "text": "formación",
+                        "start_time": 14.94,
+                        "end_time": 15.36
+                    },
+                    {
+                        "text": "morada",
+                        "start_time": 15.36,
+                        "end_time": 16.08
+                    },
+                    {
+                        "text": "adecuada",
+                        "start_time": 16.08,
+                        "end_time": 16.71
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/3.wav",
+        "start_time": 17.033,
+        "end_time": 21.561,
+        "voices": [
+            {
+                "voice": "Voz 1762",
+                "start_time": 17.033,
+                "end_time": 21.561,
+                "trans": [
+                    {
+                        "text": "un",
+                        "start_time": 17.25,
+                        "end_time": 17.4
+                    },
+                    {
+                        "text": "recado",
+                        "start_time": 17.4,
+                        "end_time": 17.76
+                    },
+                    {
+                        "text": "esta",
+                        "start_time": 17.76,
+                        "end_time": 17.94
+                    },
+                    {
+                        "text": "mañana",
+                        "start_time": 17.94,
+                        "end_time": 18.21
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 18.21,
+                        "end_time": 18.27
+                    },
+                    {
+                        "text": "Hoy",
+                        "start_time": 18.27,
+                        "end_time": 18.36
+                    },
+                    {
+                        "text": "por",
+                        "start_time": 18.36,
+                        "end_time": 18.51
+                    },
+                    {
+                        "text": "hoy",
+                        "start_time": 18.51,
+                        "end_time": 18.6
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 18.6,
+                        "end_time": 18.66
+                    },
+                    {
+                        "text": "Pedro",
+                        "start_time": 18.66,
+                        "end_time": 18.93
+                    },
+                    {
+                        "text": "Sánchez",
+                        "start_time": 18.93,
+                        "end_time": 19.26
+                    },
+                    {
+                        "text": "por",
+                        "start_time": 19.26,
+                        "end_time": 19.41
+                    },
+                    {
+                        "text": "su",
+                        "start_time": 19.41,
+                        "end_time": 19.5
+                    },
+                    {
+                        "text": "visita",
+                        "start_time": 19.5,
+                        "end_time": 19.83
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 19.83,
+                        "end_time": 19.86
+                    },
+                    {
+                        "text": "Cuba",
+                        "start_time": 19.86,
+                        "end_time": 20.13
+                    },
+                    {
+                        "text": "dice",
+                        "start_time": 20.13,
+                        "end_time": 20.34
+                    },
+                    {
+                        "text": "Iglesias",
+                        "start_time": 20.34,
+                        "end_time": 21.06
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 21.06,
+                        "end_time": 21.18
+                    },
+                    {
+                        "text": "antes",
+                        "start_time": 21.18,
+                        "end_time": 21.39
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 21.39,
+                        "end_time": 21.45
+                    },
+                    {
+                        "text": "ese",
+                        "start_time": 21.45,
+                        "end_time": 21.54
+                    },
+                    {
+                        "text": "tipo",
+                        "start_time": 21.54,
+                        "end_time": 21.78
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/4.wav",
+        "start_time": 22.056,
+        "end_time": 31.9,
+        "voices": [
+            {
+                "voice": "Voz 1762",
+                "start_time": 22.056,
+                "end_time": 30.02,
+                "trans": [
+                    {
+                        "text": "Sánchez",
+                        "start_time": 22.56,
+                        "end_time": 22.92
+                    },
+                    {
+                        "text": "debería",
+                        "start_time": 22.92,
+                        "end_time": 23.21
+                    },
+                    {
+                        "text": "tender",
+                        "start_time": 23.21,
+                        "end_time": 23.67
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 23.67,
+                        "end_time": 23.76
+                    },
+                    {
+                        "text": "las",
+                        "start_time": 23.76,
+                        "end_time": 23.94
+                    },
+                    {
+                        "text": "negociaciones",
+                        "start_time": 23.94,
+                        "end_time": 24.6
+                    },
+                    {
+                        "text": "con",
+                        "start_time": 24.6,
+                        "end_time": 24.72
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 24.72,
+                        "end_time": 24.81
+                    },
+                    {
+                        "text": "grupos",
+                        "start_time": 24.81,
+                        "end_time": 25.08
+                    },
+                    {
+                        "text": "parlamentarios",
+                        "start_time": 25.08,
+                        "end_time": 25.77
+                    },
+                    {
+                        "text": "para",
+                        "start_time": 25.77,
+                        "end_time": 26.01
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 26.01,
+                        "end_time": 26.19
+                    },
+                    {
+                        "text": "Presupuestos",
+                        "start_time": 26.19,
+                        "end_time": 26.83
+                    },
+                    {
+                        "text": "insiste",
+                        "start_time": 26.83,
+                        "end_time": 27.15
+                    },
+                    {
+                        "text": "además",
+                        "start_time": 27.15,
+                        "end_time": 27.45
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 27.45,
+                        "end_time": 27.54
+                    },
+                    {
+                        "text": "líder",
+                        "start_time": 27.54,
+                        "end_time": 27.72
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 27.72,
+                        "end_time": 27.81
+                    },
+                    {
+                        "text": "Podemos",
+                        "start_time": 27.81,
+                        "end_time": 28.56
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 28.56,
+                        "end_time": 28.74
+                    },
+                    {
+                        "text": "no",
+                        "start_time": 28.74,
+                        "end_time": 28.86
+                    },
+                    {
+                        "text": "descartar",
+                        "start_time": 28.86,
+                        "end_time": 29.37
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 29.37,
+                        "end_time": 29.46
+                    },
+                    {
+                        "text": "haya",
+                        "start_time": 29.46,
+                        "end_time": 29.76
+                    },
+                    {
+                        "text": "una",
+                        "start_time": 29.76,
+                        "end_time": 30.02
+                    }
+                ]
+            },
+            {
+                "voice": "Voz 1",
+                "start_time": 30.02,
+                "end_time": 31.9,
+                "trans": [
+                    {
+                        "text": "tanto",
+                        "start_time": 30.02,
+                        "end_time": 30.23
+                    },
+                    {
+                        "text": "electoral",
+                        "start_time": 30.23,
+                        "end_time": 30.83
+                    },
+                    {
+                        "text": "hay",
+                        "start_time": 30.83,
+                        "end_time": 30.98
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 30.98,
+                        "end_time": 31.04
+                    },
+                    {
+                        "text": "estar",
+                        "start_time": 31.04,
+                        "end_time": 31.22
+                    },
+                    {
+                        "text": "preparado",
+                        "start_time": 31.22,
+                        "end_time": 31.76
+                    },
+                    {
+                        "text": "para",
+                        "start_time": 31.76,
+                        "end_time": 31.97
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/5.wav",
+        "start_time": 32.152,
+        "end_time": 36.746,
+        "voices": [
+            {
+                "voice": "Voz 1",
+                "start_time": 32.152,
+                "end_time": 36.746,
+                "trans": [
+                    {
+                        "text": "las",
+                        "start_time": 32.21,
+                        "end_time": 32.3
+                    },
+                    {
+                        "text": "posibilidades",
+                        "start_time": 32.3,
+                        "end_time": 32.96
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 32.96,
+                        "end_time": 32.99
+                    },
+                    {
+                        "text": "esa",
+                        "start_time": 32.99,
+                        "end_time": 33.11
+                    },
+                    {
+                        "text": "es",
+                        "start_time": 33.11,
+                        "end_time": 33.17
+                    },
+                    {
+                        "text": "una",
+                        "start_time": 33.17,
+                        "end_time": 33.32
+                    },
+                    {
+                        "text": "posibilidad",
+                        "start_time": 33.32,
+                        "end_time": 34.1
+                    },
+                    {
+                        "text": "nosotros",
+                        "start_time": 34.1,
+                        "end_time": 34.43
+                    },
+                    {
+                        "text": "vamos",
+                        "start_time": 34.43,
+                        "end_time": 34.7
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 34.7,
+                        "end_time": 34.73
+                    },
+                    {
+                        "text": "seguir",
+                        "start_time": 34.73,
+                        "end_time": 34.97
+                    },
+                    {
+                        "text": "apostando",
+                        "start_time": 34.97,
+                        "end_time": 35.48
+                    },
+                    {
+                        "text": "como",
+                        "start_time": 35.48,
+                        "end_time": 35.69
+                    },
+                    {
+                        "text": "primera",
+                        "start_time": 35.69,
+                        "end_time": 35.96
+                    },
+                    {
+                        "text": "opción",
+                        "start_time": 35.96,
+                        "end_time": 36.77
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/6.wav",
+        "start_time": 37.298,
+        "end_time": 39.89,
+        "voices": [
+            {
+                "voice": "Voz 1",
+                "start_time": 37.298,
+                "end_time": 39.89,
+                "trans": [
+                    {
+                        "text": "sacar",
+                        "start_time": 37.43,
+                        "end_time": 37.82
+                    },
+                    {
+                        "text": "adelante",
+                        "start_time": 37.82,
+                        "end_time": 38.21
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 38.21,
+                        "end_time": 38.27
+                    },
+                    {
+                        "text": "acuerdo",
+                        "start_time": 38.27,
+                        "end_time": 38.57
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 38.57,
+                        "end_time": 38.66
+                    },
+                    {
+                        "text": "Presupuestos",
+                        "start_time": 38.66,
+                        "end_time": 39.23
+                    },
+                    {
+                        "text": "pero",
+                        "start_time": 39.23,
+                        "end_time": 39.44
+                    },
+                    {
+                        "text": "no",
+                        "start_time": 39.44,
+                        "end_time": 39.56
+                    },
+                    {
+                        "text": "soy",
+                        "start_time": 39.56,
+                        "end_time": 39.74
+                    },
+                    {
+                        "text": "ingenuo",
+                        "start_time": 39.74,
+                        "end_time": 40.19
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/7.wav",
+        "start_time": 40.296,
+        "end_time": 40.984,
+        "voices": [
+            {
+                "voice": "Voz 1",
+                "start_time": 40.296,
+                "end_time": 40.984,
+                "trans": [
+                    {
+                        "text": "consciente",
+                        "start_time": 40.37,
+                        "end_time": 40.82
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 40.82,
+                        "end_time": 40.91
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 40.91,
+                        "end_time": 41.06
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/8.wav",
+        "start_time": 41.312,
+        "end_time": 47.249,
+        "voices": [
+            {
+                "voice": "Voz 1",
+                "start_time": 41.312,
+                "end_time": 47.249,
+                "trans": [
+                    {
+                        "text": "es",
+                        "start_time": 41.84,
+                        "end_time": 42.02
+                    },
+                    {
+                        "text": "muy",
+                        "start_time": 42.02,
+                        "end_time": 42.2
+                    },
+                    {
+                        "text": "difícil",
+                        "start_time": 42.2,
+                        "end_time": 42.56
+                    },
+                    {
+                        "text": "creo",
+                        "start_time": 42.56,
+                        "end_time": 42.8
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 42.8,
+                        "end_time": 42.86
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 42.86,
+                        "end_time": 42.92
+                    },
+                    {
+                        "text": "Gobierno",
+                        "start_time": 42.92,
+                        "end_time": 43.31
+                    },
+                    {
+                        "text": "se",
+                        "start_time": 43.31,
+                        "end_time": 43.4
+                    },
+                    {
+                        "text": "tenía",
+                        "start_time": 43.4,
+                        "end_time": 43.58
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 43.58,
+                        "end_time": 43.7
+                    },
+                    {
+                        "text": "haber",
+                        "start_time": 43.7,
+                        "end_time": 44.27
+                    },
+                    {
+                        "text": "movido",
+                        "start_time": 44.27,
+                        "end_time": 44.63
+                    },
+                    {
+                        "text": "más",
+                        "start_time": 44.63,
+                        "end_time": 44.96
+                    },
+                    {
+                        "text": "es",
+                        "start_time": 44.96,
+                        "end_time": 45.15
+                    },
+                    {
+                        "text": "también",
+                        "start_time": 45.15,
+                        "end_time": 45.5
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 45.5,
+                        "end_time": 45.65
+                    },
+                    {
+                        "text": "viajes",
+                        "start_time": 45.65,
+                        "end_time": 45.92
+                    },
+                    {
+                        "text": "al",
+                        "start_time": 45.92,
+                        "end_time": 46.01
+                    },
+                    {
+                        "text": "extranjero",
+                        "start_time": 46.01,
+                        "end_time": 46.79
+                    },
+                    {
+                        "text": "pero",
+                        "start_time": 46.79,
+                        "end_time": 47.0
+                    },
+                    {
+                        "text": "creo",
+                        "start_time": 47.0,
+                        "end_time": 47.24
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 47.24,
+                        "end_time": 47.36
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/9.wav",
+        "start_time": 47.544,
+        "end_time": 52.642,
+        "voices": [
+            {
+                "voice": "Voz 1",
+                "start_time": 47.544,
+                "end_time": 47.77,
+                "trans": [
+                    {
+                        "text": "que",
+                        "start_time": 47.57,
+                        "end_time": 47.67
+                    },
+                    {
+                        "text": "eso",
+                        "start_time": 47.67,
+                        "end_time": 47.77
+                    }
+                ]
+            },
+            {
+                "voice": "Voz 0477",
+                "start_time": 47.77,
+                "end_time": 50.27,
+                "trans": [
+                    {
+                        "text": "emocionada",
+                        "start_time": 47.77,
+                        "end_time": 48.23
+                    },
+                    {
+                        "text": "algunas",
+                        "start_time": 48.23,
+                        "end_time": 48.58
+                    },
+                    {
+                        "text": "cosas",
+                        "start_time": 48.58,
+                        "end_time": 48.88
+                    },
+                    {
+                        "text": "internas",
+                        "start_time": 48.88,
+                        "end_time": 49.33
+                    },
+                    {
+                        "text": "primero",
+                        "start_time": 49.33,
+                        "end_time": 49.69
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 49.69,
+                        "end_time": 49.78
+                    },
+                    {
+                        "text": "veces",
+                        "start_time": 49.78,
+                        "end_time": 50.27
+                    }
+                ]
+            },
+            {
+                "voice": "Voz 1",
+                "start_time": 50.27,
+                "end_time": 52.642,
+                "trans": [
+                    {
+                        "text": "todos",
+                        "start_time": 50.27,
+                        "end_time": 50.72
+                    },
+                    {
+                        "text": "deberíamos",
+                        "start_time": 50.72,
+                        "end_time": 51.35
+                    },
+                    {
+                        "text": "hablar",
+                        "start_time": 51.35,
+                        "end_time": 51.65
+                    },
+                    {
+                        "text": "un",
+                        "start_time": 51.65,
+                        "end_time": 51.71
+                    },
+                    {
+                        "text": "poco",
+                        "start_time": 51.71,
+                        "end_time": 51.92
+                    },
+                    {
+                        "text": "menos",
+                        "start_time": 51.92,
+                        "end_time": 52.16
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 52.16,
+                        "end_time": 52.19
+                    },
+                    {
+                        "text": "hacer",
+                        "start_time": 52.19,
+                        "end_time": 52.4
+                    },
+                    {
+                        "text": "un",
+                        "start_time": 52.4,
+                        "end_time": 52.49
+                    },
+                    {
+                        "text": "poco",
+                        "start_time": 52.49,
+                        "end_time": 52.7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/10.wav",
+        "start_time": 53.087,
+        "end_time": 59.959,
+        "voices": [
+            {
+                "voice": "Voz 1",
+                "start_time": 53.087,
+                "end_time": 53.41,
+                "trans": []
+            },
+            {
+                "voice": "Voz 1762",
+                "start_time": 53.41,
+                "end_time": 59.959,
+                "trans": [
+                    {
+                        "text": "una",
+                        "start_time": 53.41,
+                        "end_time": 53.77
+                    },
+                    {
+                        "text": "mujer",
+                        "start_time": 53.77,
+                        "end_time": 54.04
+                    },
+                    {
+                        "text": "embarazada",
+                        "start_time": 54.04,
+                        "end_time": 54.62
+                    },
+                    {
+                        "text": "ha",
+                        "start_time": 54.62,
+                        "end_time": 54.64
+                    },
+                    {
+                        "text": "fallecido",
+                        "start_time": 54.64,
+                        "end_time": 55.12
+                    },
+                    {
+                        "text": "después",
+                        "start_time": 55.12,
+                        "end_time": 55.51
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 55.51,
+                        "end_time": 55.57
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 55.57,
+                        "end_time": 55.66
+                    },
+                    {
+                        "text": "fuera",
+                        "start_time": 55.66,
+                        "end_time": 55.9
+                    },
+                    {
+                        "text": "rescatada",
+                        "start_time": 55.9,
+                        "end_time": 56.62
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 56.62,
+                        "end_time": 56.74
+                    },
+                    {
+                        "text": "una",
+                        "start_time": 56.74,
+                        "end_time": 56.92
+                    },
+                    {
+                        "text": "patera",
+                        "start_time": 56.92,
+                        "end_time": 57.31
+                    },
+                    {
+                        "text": "semihundida",
+                        "start_time": 57.31,
+                        "end_time": 57.88
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 57.88,
+                        "end_time": 57.94
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 57.94,
+                        "end_time": 58.06
+                    },
+                    {
+                        "text": "mar",
+                        "start_time": 58.06,
+                        "end_time": 58.24
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 58.24,
+                        "end_time": 58.3
+                    },
+                    {
+                        "text": "Alborán",
+                        "start_time": 58.3,
+                        "end_time": 58.63
+                    },
+                    {
+                        "text": "fue",
+                        "start_time": 58.63,
+                        "end_time": 58.78
+                    },
+                    {
+                        "text": "trasladada",
+                        "start_time": 58.78,
+                        "end_time": 59.44
+                    },
+                    {
+                        "text": "aún",
+                        "start_time": 59.44,
+                        "end_time": 59.62
+                    },
+                    {
+                        "text": "con",
+                        "start_time": 59.62,
+                        "end_time": 59.8
+                    },
+                    {
+                        "text": "vida",
+                        "start_time": 59.8,
+                        "end_time": 60.6
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/11.wav",
+        "start_time": 60.391,
+        "end_time": 70.189,
+        "voices": [
+            {
+                "voice": "Voz 1762",
+                "start_time": 60.391,
+                "end_time": 66.12,
+                "trans": [
+                    {
+                        "text": "Almería",
+                        "start_time": 60.6,
+                        "end_time": 61.0
+                    },
+                    {
+                        "text": "pero",
+                        "start_time": 61.0,
+                        "end_time": 61.18
+                    },
+                    {
+                        "text": "finalmente",
+                        "start_time": 61.18,
+                        "end_time": 61.72
+                    },
+                    {
+                        "text": "han",
+                        "start_time": 61.72,
+                        "end_time": 61.78
+                    },
+                    {
+                        "text": "muerto",
+                        "start_time": 61.78,
+                        "end_time": 62.05
+                    },
+                    {
+                        "text": "otros",
+                        "start_time": 62.05,
+                        "end_time": 62.32
+                    },
+                    {
+                        "text": "trece",
+                        "start_time": 62.32,
+                        "end_time": 62.65
+                    },
+                    {
+                        "text": "ocupantes",
+                        "start_time": 62.65,
+                        "end_time": 63.19
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 63.19,
+                        "end_time": 63.28
+                    },
+                    {
+                        "text": "esa",
+                        "start_time": 63.28,
+                        "end_time": 63.4
+                    },
+                    {
+                        "text": "patera",
+                        "start_time": 63.4,
+                        "end_time": 63.76
+                    },
+                    {
+                        "text": "siguen",
+                        "start_time": 63.76,
+                        "end_time": 64.03
+                    },
+                    {
+                        "text": "desaparecidos",
+                        "start_time": 64.03,
+                        "end_time": 64.78
+                    },
+                    {
+                        "text": "Almería",
+                        "start_time": 64.78,
+                        "end_time": 65.2
+                    },
+                    {
+                        "text": "Javier",
+                        "start_time": 65.2,
+                        "end_time": 65.47
+                    },
+                    {
+                        "text": "Romero",
+                        "start_time": 65.47,
+                        "end_time": 66.12
+                    }
+                ]
+            },
+            {
+                "voice": "Voz 2",
+                "start_time": 66.12,
+                "end_time": 70.189,
+                "trans": [
+                    {
+                        "text": "sí",
+                        "start_time": 66.12,
+                        "end_time": 66.3
+                    },
+                    {
+                        "text": "fue",
+                        "start_time": 66.3,
+                        "end_time": 66.45
+                    },
+                    {
+                        "text": "rescatada",
+                        "start_time": 66.45,
+                        "end_time": 66.82
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 66.82,
+                        "end_time": 66.93
+                    },
+                    {
+                        "text": "una",
+                        "start_time": 66.93,
+                        "end_time": 67.11
+                    },
+                    {
+                        "text": "patera",
+                        "start_time": 67.11,
+                        "end_time": 67.5
+                    },
+                    {
+                        "text": "semihundida",
+                        "start_time": 67.5,
+                        "end_time": 68.01
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 68.01,
+                        "end_time": 68.1
+                    },
+                    {
+                        "text": "aguas",
+                        "start_time": 68.1,
+                        "end_time": 68.34
+                    },
+                    {
+                        "text": "del",
+                        "start_time": 68.34,
+                        "end_time": 68.49
+                    },
+                    {
+                        "text": "mar",
+                        "start_time": 68.49,
+                        "end_time": 68.67
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 68.67,
+                        "end_time": 68.73
+                    },
+                    {
+                        "text": "Alborán",
+                        "start_time": 68.73,
+                        "end_time": 69.03
+                    },
+                    {
+                        "text": "por",
+                        "start_time": 69.03,
+                        "end_time": 69.12
+                    },
+                    {
+                        "text": "efectivos",
+                        "start_time": 69.12,
+                        "end_time": 69.57
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 69.57,
+                        "end_time": 69.63
+                    },
+                    {
+                        "text": "Salvamento",
+                        "start_time": 69.63,
+                        "end_time": 70.05
+                    },
+                    {
+                        "text": "Marítimo",
+                        "start_time": 70.05,
+                        "end_time": 70.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/12.wav",
+        "start_time": 70.622,
+        "end_time": 75.255,
+        "voices": [
+            {
+                "voice": "Voz 2",
+                "start_time": 70.622,
+                "end_time": 75.255,
+                "trans": [
+                    {
+                        "text": "la",
+                        "start_time": 70.83,
+                        "end_time": 71.01
+                    },
+                    {
+                        "text": "trasladaron",
+                        "start_time": 71.01,
+                        "end_time": 71.58
+                    },
+                    {
+                        "text": "aún",
+                        "start_time": 71.58,
+                        "end_time": 71.76
+                    },
+                    {
+                        "text": "con",
+                        "start_time": 71.76,
+                        "end_time": 71.94
+                    },
+                    {
+                        "text": "vida",
+                        "start_time": 71.94,
+                        "end_time": 72.45
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 72.45,
+                        "end_time": 72.6
+                    },
+                    {
+                        "text": "helicóptero",
+                        "start_time": 72.6,
+                        "end_time": 73.14
+                    },
+                    {
+                        "text": "hasta",
+                        "start_time": 73.14,
+                        "end_time": 73.41
+                    },
+                    {
+                        "text": "Almería",
+                        "start_time": 73.41,
+                        "end_time": 73.8
+                    },
+                    {
+                        "text": "practicando",
+                        "start_time": 73.8,
+                        "end_time": 74.32
+                    },
+                    {
+                        "text": "maniobras",
+                        "start_time": 74.32,
+                        "end_time": 74.82
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 74.82,
+                        "end_time": 74.97
+                    },
+                    {
+                        "text": "reanimación",
+                        "start_time": 74.97,
+                        "end_time": 75.57
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/13.wav",
+        "start_time": 75.685,
+        "end_time": 77.874,
+        "voices": [
+            {
+                "voice": "Voz 2",
+                "start_time": 75.685,
+                "end_time": 77.874,
+                "trans": [
+                    {
+                        "text": "mientras",
+                        "start_time": 75.71,
+                        "end_time": 76.05
+                    },
+                    {
+                        "text": "llegar",
+                        "start_time": 76.05,
+                        "end_time": 76.23
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 76.23,
+                        "end_time": 76.29
+                    },
+                    {
+                        "text": "tierra",
+                        "start_time": 76.29,
+                        "end_time": 76.86
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 76.86,
+                        "end_time": 77.07
+                    },
+                    {
+                        "text": "servicios",
+                        "start_time": 77.07,
+                        "end_time": 77.37
+                    },
+                    {
+                        "text": "sanitarios",
+                        "start_time": 77.37,
+                        "end_time": 77.82
+                    },
+                    {
+                        "text": "certificaron",
+                        "start_time": 77.82,
+                        "end_time": 78.51
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/14.wav",
+        "start_time": 78.633,
+        "end_time": 85.519,
+        "voices": [
+            {
+                "voice": "Voz 2",
+                "start_time": 78.633,
+                "end_time": 85.519,
+                "trans": [
+                    {
+                        "text": "trece",
+                        "start_time": 78.93,
+                        "end_time": 79.29
+                    },
+                    {
+                        "text": "ocupantes",
+                        "start_time": 79.29,
+                        "end_time": 79.86
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 79.86,
+                        "end_time": 80.1
+                    },
+                    {
+                        "text": "las",
+                        "start_time": 80.1,
+                        "end_time": 80.34
+                    },
+                    {
+                        "text": "cincuenta",
+                        "start_time": 80.34,
+                        "end_time": 80.79
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 80.79,
+                        "end_time": 80.82
+                    },
+                    {
+                        "text": "seis",
+                        "start_time": 80.82,
+                        "end_time": 80.97
+                    },
+                    {
+                        "text": "personas",
+                        "start_time": 80.97,
+                        "end_time": 81.27
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 81.27,
+                        "end_time": 81.39
+                    },
+                    {
+                        "text": "viajaban",
+                        "start_time": 81.39,
+                        "end_time": 81.75
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 81.75,
+                        "end_time": 81.84
+                    },
+                    {
+                        "text": "esa",
+                        "start_time": 81.84,
+                        "end_time": 81.98
+                    },
+                    {
+                        "text": "embarcación",
+                        "start_time": 81.98,
+                        "end_time": 82.77
+                    },
+                    {
+                        "text": "se",
+                        "start_time": 82.77,
+                        "end_time": 82.86
+                    },
+                    {
+                        "text": "encuentran",
+                        "start_time": 82.86,
+                        "end_time": 83.19
+                    },
+                    {
+                        "text": "desaparecidos",
+                        "start_time": 83.19,
+                        "end_time": 83.91
+                    },
+                    {
+                        "text": "mientras",
+                        "start_time": 83.91,
+                        "end_time": 84.24
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 84.24,
+                        "end_time": 84.42
+                    },
+                    {
+                        "text": "otros",
+                        "start_time": 84.42,
+                        "end_time": 84.63
+                    },
+                    {
+                        "text": "cuarenta",
+                        "start_time": 84.63,
+                        "end_time": 85.02
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 85.02,
+                        "end_time": 85.05
+                    },
+                    {
+                        "text": "dos",
+                        "start_time": 85.05,
+                        "end_time": 85.23
+                    },
+                    {
+                        "text": "rescatados",
+                        "start_time": 85.23,
+                        "end_time": 86.1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/15.wav",
+        "start_time": 85.965,
+        "end_time": 88.009,
+        "voices": [
+            {
+                "voice": "Voz 2",
+                "start_time": 85.965,
+                "end_time": 88.009,
+                "trans": [
+                    {
+                        "text": "fueron",
+                        "start_time": 86.1,
+                        "end_time": 86.37
+                    },
+                    {
+                        "text": "trasladados",
+                        "start_time": 86.37,
+                        "end_time": 86.85
+                    },
+                    {
+                        "text": "al",
+                        "start_time": 86.85,
+                        "end_time": 86.97
+                    },
+                    {
+                        "text": "puerto",
+                        "start_time": 86.97,
+                        "end_time": 87.24
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 87.24,
+                        "end_time": 87.33
+                    },
+                    {
+                        "text": "Almería",
+                        "start_time": 87.33,
+                        "end_time": 87.66
+                    },
+                    {
+                        "text": "Salvamento",
+                        "start_time": 87.66,
+                        "end_time": 88.08
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/16.wav",
+        "start_time": 88.393,
+        "end_time": 98.96,
+        "voices": [
+            {
+                "voice": "Voz 2",
+                "start_time": 88.393,
+                "end_time": 98.37,
+                "trans": [
+                    {
+                        "text": "rescató",
+                        "start_time": 88.47,
+                        "end_time": 89.16
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 89.16,
+                        "end_time": 89.31
+                    },
+                    {
+                        "text": "aguas",
+                        "start_time": 89.31,
+                        "end_time": 89.52
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 89.52,
+                        "end_time": 89.58
+                    },
+                    {
+                        "text": "Almería",
+                        "start_time": 89.58,
+                        "end_time": 89.88
+                    },
+                    {
+                        "text": "durante",
+                        "start_time": 89.88,
+                        "end_time": 90.18
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 90.18,
+                        "end_time": 90.27
+                    },
+                    {
+                        "text": "jornada",
+                        "start_time": 90.27,
+                        "end_time": 90.66
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 90.66,
+                        "end_time": 90.81
+                    },
+                    {
+                        "text": "ayer",
+                        "start_time": 90.81,
+                        "end_time": 91.11
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 91.11,
+                        "end_time": 91.17
+                    },
+                    {
+                        "text": "un",
+                        "start_time": 91.17,
+                        "end_time": 91.23
+                    },
+                    {
+                        "text": "total",
+                        "start_time": 91.23,
+                        "end_time": 91.53
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 91.53,
+                        "end_time": 91.6
+                    },
+                    {
+                        "text": "ocho",
+                        "start_time": 91.6,
+                        "end_time": 92.0
+                    },
+                    {
+                        "text": "cientas",
+                        "start_time": 92.0,
+                        "end_time": 92.54
+                    },
+                    {
+                        "text": "no",
+                        "start_time": 92.54,
+                        "end_time": 92.68
+                    },
+                    {
+                        "text": "veinticuatro",
+                        "start_time": 92.68,
+                        "end_time": 93.15
+                    },
+                    {
+                        "text": "personas",
+                        "start_time": 93.15,
+                        "end_time": 93.9
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 93.9,
+                        "end_time": 94.14
+                    },
+                    {
+                        "text": "viajaban",
+                        "start_time": 94.14,
+                        "end_time": 94.65
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 94.65,
+                        "end_time": 94.74
+                    },
+                    {
+                        "text": "dieciocho",
+                        "start_time": 94.74,
+                        "end_time": 95.16
+                    },
+                    {
+                        "text": "embarcaciones",
+                        "start_time": 95.16,
+                        "end_time": 96.0
+                    },
+                    {
+                        "text": "entre",
+                        "start_time": 96.0,
+                        "end_time": 96.3
+                    },
+                    {
+                        "text": "ellos",
+                        "start_time": 96.3,
+                        "end_time": 96.54
+                    },
+                    {
+                        "text": "cuarenta",
+                        "start_time": 96.54,
+                        "end_time": 97.08
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 97.08,
+                        "end_time": 97.11
+                    },
+                    {
+                        "text": "cuatro",
+                        "start_time": 97.11,
+                        "end_time": 97.47
+                    },
+                    {
+                        "text": "menores",
+                        "start_time": 97.47,
+                        "end_time": 97.92
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 97.92,
+                        "end_time": 98.37
+                    }
+                ]
+            },
+            {
+                "voice": "Voz 1762",
+                "start_time": 98.37,
+                "end_time": 98.96,
+                "trans": [
+                    {
+                        "text": "la",
+                        "start_time": 98.37,
+                        "end_time": 98.55
+                    },
+                    {
+                        "text": "Policía",
+                        "start_time": 98.55,
+                        "end_time": 98.93
+                    },
+                    {
+                        "text": "ha",
+                        "start_time": 98.93,
+                        "end_time": 99.0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/17.wav",
+        "start_time": 99.394,
+        "end_time": 100.031,
+        "voices": [
+            {
+                "voice": "Voz 1762",
+                "start_time": 99.394,
+                "end_time": 100.031,
+                "trans": [
+                    {
+                        "text": "en",
+                        "start_time": 99.42,
+                        "end_time": 99.48
+                    },
+                    {
+                        "text": "Albacete",
+                        "start_time": 99.48,
+                        "end_time": 100.11
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/18.wav",
+        "start_time": 100.483,
+        "end_time": 107.481,
+        "voices": [
+            {
+                "voice": "Voz 1762",
+                "start_time": 100.483,
+                "end_time": 105.22,
+                "trans": [
+                    {
+                        "text": "al",
+                        "start_time": 100.62,
+                        "end_time": 100.71
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 100.71,
+                        "end_time": 100.8
+                    },
+                    {
+                        "text": "acusa",
+                        "start_time": 100.8,
+                        "end_time": 101.13
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 101.13,
+                        "end_time": 101.37
+                    },
+                    {
+                        "text": "acosar",
+                        "start_time": 101.37,
+                        "end_time": 101.91
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 101.91,
+                        "end_time": 101.94
+                    },
+                    {
+                        "text": "una",
+                        "start_time": 101.94,
+                        "end_time": 102.09
+                    },
+                    {
+                        "text": "menor",
+                        "start_time": 102.09,
+                        "end_time": 102.36
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 102.36,
+                        "end_time": 102.45
+                    },
+                    {
+                        "text": "edad",
+                        "start_time": 102.45,
+                        "end_time": 102.78
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 102.78,
+                        "end_time": 102.84
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 102.84,
+                        "end_time": 102.96
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 102.96,
+                        "end_time": 103.08
+                    },
+                    {
+                        "text": "pedía",
+                        "start_time": 103.08,
+                        "end_time": 103.35
+                    },
+                    {
+                        "text": "fotos",
+                        "start_time": 103.35,
+                        "end_time": 103.65
+                    },
+                    {
+                        "text": "desnuda",
+                        "start_time": 103.65,
+                        "end_time": 104.1
+                    },
+                    {
+                        "text": "informa",
+                        "start_time": 104.1,
+                        "end_time": 104.43
+                    },
+                    {
+                        "text": "Kiko",
+                        "start_time": 104.43,
+                        "end_time": 105.22
+                    }
+                ]
+            },
+            {
+                "voice": "Voz 3",
+                "start_time": 105.22,
+                "end_time": 107.481,
+                "trans": [
+                    {
+                        "text": "el",
+                        "start_time": 105.22,
+                        "end_time": 105.4
+                    },
+                    {
+                        "text": "arrestado",
+                        "start_time": 105.4,
+                        "end_time": 105.79
+                    },
+                    {
+                        "text": "propuso",
+                        "start_time": 105.79,
+                        "end_time": 106.33
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 106.33,
+                        "end_time": 106.39
+                    },
+                    {
+                        "text": "una",
+                        "start_time": 106.39,
+                        "end_time": 106.57
+                    },
+                    {
+                        "text": "menor",
+                        "start_time": 106.57,
+                        "end_time": 106.87
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 106.87,
+                        "end_time": 106.96
+                    },
+                    {
+                        "text": "doce",
+                        "start_time": 106.96,
+                        "end_time": 107.23
+                    },
+                    {
+                        "text": "años",
+                        "start_time": 107.23,
+                        "end_time": 107.47
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 107.47,
+                        "end_time": 107.57
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/19.wav",
+        "start_time": 107.968,
+        "end_time": 112.834,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 107.968,
+                "end_time": 112.834,
+                "trans": [
+                    {
+                        "text": "fotos",
+                        "start_time": 107.98,
+                        "end_time": 108.34
+                    },
+                    {
+                        "text": "suyas",
+                        "start_time": 108.34,
+                        "end_time": 108.73
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 108.73,
+                        "end_time": 108.85
+                    },
+                    {
+                        "text": "ropa",
+                        "start_time": 108.85,
+                        "end_time": 109.06
+                    },
+                    {
+                        "text": "interior",
+                        "start_time": 109.06,
+                        "end_time": 109.45
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 109.45,
+                        "end_time": 109.51
+                    },
+                    {
+                        "text": "desnuda",
+                        "start_time": 109.51,
+                        "end_time": 109.96
+                    },
+                    {
+                        "text": "como",
+                        "start_time": 109.96,
+                        "end_time": 110.2
+                    },
+                    {
+                        "text": "había",
+                        "start_time": 110.2,
+                        "end_time": 110.41
+                    },
+                    {
+                        "text": "hecho",
+                        "start_time": 110.41,
+                        "end_time": 110.65
+                    },
+                    {
+                        "text": "él",
+                        "start_time": 110.65,
+                        "end_time": 110.83
+                    },
+                    {
+                        "text": "según",
+                        "start_time": 110.83,
+                        "end_time": 111.16
+                    },
+                    {
+                        "text": "informa",
+                        "start_time": 111.16,
+                        "end_time": 111.52
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 111.52,
+                        "end_time": 111.67
+                    },
+                    {
+                        "text": "Policía",
+                        "start_time": 111.67,
+                        "end_time": 112.21
+                    },
+                    {
+                        "text": "las",
+                        "start_time": 112.21,
+                        "end_time": 112.39
+                    },
+                    {
+                        "text": "conversaciones",
+                        "start_time": 112.39,
+                        "end_time": 112.96
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/20.wav",
+        "start_time": 113.223,
+        "end_time": 114.472,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 113.223,
+                "end_time": 114.472,
+                "trans": [
+                    {
+                        "text": "a",
+                        "start_time": 113.41,
+                        "end_time": 113.44
+                    },
+                    {
+                        "text": "través",
+                        "start_time": 113.44,
+                        "end_time": 113.68
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 113.68,
+                        "end_time": 113.85
+                    },
+                    {
+                        "text": "whatsapp",
+                        "start_time": 113.85,
+                        "end_time": 114.27
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 114.27,
+                        "end_time": 114.4
+                    },
+                    {
+                        "text": "otra",
+                        "start_time": 114.4,
+                        "end_time": 114.7
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/21.wav",
+        "start_time": 114.844,
+        "end_time": 119.013,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 114.844,
+                "end_time": 119.013,
+                "trans": [
+                    {
+                        "text": "social",
+                        "start_time": 114.91,
+                        "end_time": 115.3
+                    },
+                    {
+                        "text": "juvenil",
+                        "start_time": 115.3,
+                        "end_time": 116.05
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 116.05,
+                        "end_time": 116.23
+                    },
+                    {
+                        "text": "detenido",
+                        "start_time": 116.23,
+                        "end_time": 116.65
+                    },
+                    {
+                        "text": "les",
+                        "start_time": 116.65,
+                        "end_time": 116.76
+                    },
+                    {
+                        "text": "regalo",
+                        "start_time": 116.76,
+                        "end_time": 117.04
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 117.04,
+                        "end_time": 117.07
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 117.07,
+                        "end_time": 117.16
+                    },
+                    {
+                        "text": "chica",
+                        "start_time": 117.16,
+                        "end_time": 117.52
+                    },
+                    {
+                        "text": "un",
+                        "start_time": 117.52,
+                        "end_time": 117.67
+                    },
+                    {
+                        "text": "teléfono",
+                        "start_time": 117.67,
+                        "end_time": 118.06
+                    },
+                    {
+                        "text": "móvil",
+                        "start_time": 118.06,
+                        "end_time": 118.48
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 118.48,
+                        "end_time": 118.66
+                    },
+                    {
+                        "text": "tarjeta",
+                        "start_time": 118.66,
+                        "end_time": 119.08
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/22.wav",
+        "start_time": 119.753,
+        "end_time": 120.697,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 119.753,
+                "end_time": 120.697,
+                "trans": [
+                    {
+                        "text": "un",
+                        "start_time": 119.77,
+                        "end_time": 119.92
+                    },
+                    {
+                        "text": "tercero",
+                        "start_time": 119.92,
+                        "end_time": 120.4
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 120.4,
+                        "end_time": 120.46
+                    },
+                    {
+                        "text": "fue",
+                        "start_time": 120.46,
+                        "end_time": 120.67
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 120.67,
+                        "end_time": 120.79
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/23.wav",
+        "start_time": 121.025,
+        "end_time": 122.533,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 121.025,
+                "end_time": 122.533,
+                "trans": [
+                    {
+                        "text": "de",
+                        "start_time": 121.09,
+                        "end_time": 121.18
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 121.18,
+                        "end_time": 121.27
+                    },
+                    {
+                        "text": "menor",
+                        "start_time": 121.27,
+                        "end_time": 121.54
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 121.54,
+                        "end_time": 121.66
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 121.66,
+                        "end_time": 121.78
+                    },
+                    {
+                        "text": "descubrió",
+                        "start_time": 121.78,
+                        "end_time": 122.26
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 122.26,
+                        "end_time": 122.41
+                    },
+                    {
+                        "text": "delito",
+                        "start_time": 122.41,
+                        "end_time": 123.04
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/24.wav",
+        "start_time": 122.914,
+        "end_time": 124.413,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 122.914,
+                "end_time": 124.413,
+                "trans": [
+                    {
+                        "text": "porque",
+                        "start_time": 123.04,
+                        "end_time": 123.31
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 123.31,
+                        "end_time": 123.37
+                    },
+                    {
+                        "text": "pedófilo",
+                        "start_time": 123.37,
+                        "end_time": 123.91
+                    },
+                    {
+                        "text": "era",
+                        "start_time": 123.91,
+                        "end_time": 124.12
+                    },
+                    {
+                        "text": "conocido",
+                        "start_time": 124.12,
+                        "end_time": 124.57
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/25.wav",
+        "start_time": 124.674,
+        "end_time": 125.418,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 124.674,
+                "end_time": 125.418,
+                "trans": [
+                    {
+                        "text": "la",
+                        "start_time": 124.93,
+                        "end_time": 125.08
+                    },
+                    {
+                        "text": "pareja",
+                        "start_time": 125.08,
+                        "end_time": 125.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/26.wav",
+        "start_time": 125.945,
+        "end_time": 128.627,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 125.945,
+                "end_time": 128.627,
+                "trans": [
+                    {
+                        "text": "de",
+                        "start_time": 126.07,
+                        "end_time": 126.13
+                    },
+                    {
+                        "text": "un",
+                        "start_time": 126.13,
+                        "end_time": 126.25
+                    },
+                    {
+                        "text": "familiar",
+                        "start_time": 126.25,
+                        "end_time": 126.88
+                    },
+                    {
+                        "text": "cuando",
+                        "start_time": 126.88,
+                        "end_time": 127.15
+                    },
+                    {
+                        "text": "fue",
+                        "start_time": 127.15,
+                        "end_time": 127.33
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 127.33,
+                        "end_time": 127.36
+                    },
+                    {
+                        "text": "detenerlo",
+                        "start_time": 127.36,
+                        "end_time": 127.9
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 127.9,
+                        "end_time": 128.05
+                    },
+                    {
+                        "text": "policía",
+                        "start_time": 128.05,
+                        "end_time": 128.41
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 128.41,
+                        "end_time": 128.47
+                    },
+                    {
+                        "text": "hombre",
+                        "start_time": 128.47,
+                        "end_time": 128.95
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/27.wav",
+        "start_time": 128.883,
+        "end_time": 129.155,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 128.883,
+                "end_time": 129.155,
+                "trans": [
+                    {
+                        "text": "intentó",
+                        "start_time": 128.95,
+                        "end_time": 129.37
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/28.wav",
+        "start_time": 130.096,
+        "end_time": 130.885,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 130.096,
+                "end_time": 130.885,
+                "trans": [
+                    {
+                        "text": "subió",
+                        "start_time": 130.15,
+                        "end_time": 130.39
+                    },
+                    {
+                        "text": "al",
+                        "start_time": 130.39,
+                        "end_time": 130.45
+                    },
+                    {
+                        "text": "tejado",
+                        "start_time": 130.45,
+                        "end_time": 130.81
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 130.81,
+                        "end_time": 130.9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/29.wav",
+        "start_time": 131.253,
+        "end_time": 131.982,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 131.253,
+                "end_time": 131.982,
+                "trans": [
+                    {
+                        "text": "dejó",
+                        "start_time": 131.83,
+                        "end_time": 132.1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/30.wav",
+        "start_time": 132.237,
+        "end_time": 132.756,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 132.237,
+                "end_time": 132.756,
+                "trans": [
+                    {
+                        "text": "nota",
+                        "start_time": 132.25,
+                        "end_time": 132.46
+                    },
+                    {
+                        "text": "manuscrita",
+                        "start_time": 132.46,
+                        "end_time": 133.03
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/31.wav",
+        "start_time": 133.027,
+        "end_time": 134.413,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 133.027,
+                "end_time": 134.413,
+                "trans": [
+                    {
+                        "text": "de",
+                        "start_time": 133.03,
+                        "end_time": 133.12
+                    },
+                    {
+                        "text": "despedida",
+                        "start_time": 133.12,
+                        "end_time": 133.66
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 133.66,
+                        "end_time": 133.75
+                    },
+                    {
+                        "text": "sus",
+                        "start_time": 133.75,
+                        "end_time": 133.93
+                    },
+                    {
+                        "text": "padres",
+                        "start_time": 133.93,
+                        "end_time": 134.29
+                    },
+                    {
+                        "text": "donde",
+                        "start_time": 134.29,
+                        "end_time": 134.5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/32.wav",
+        "start_time": 135.002,
+        "end_time": 137.331,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 135.002,
+                "end_time": 137.331,
+                "trans": [
+                    {
+                        "text": "estar",
+                        "start_time": 135.07,
+                        "end_time": 135.43
+                    },
+                    {
+                        "text": "avergonzado",
+                        "start_time": 135.43,
+                        "end_time": 136.15
+                    },
+                    {
+                        "text": "finalmente",
+                        "start_time": 136.15,
+                        "end_time": 136.51
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 136.51,
+                        "end_time": 136.6
+                    },
+                    {
+                        "text": "policía",
+                        "start_time": 136.6,
+                        "end_time": 137.26
+                    },
+                    {
+                        "text": "consiguió",
+                        "start_time": 137.26,
+                        "end_time": 137.65
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/33.wav",
+        "start_time": 137.953,
+        "end_time": 147.126,
+        "voices": [
+            {
+                "voice": "Voz 3",
+                "start_time": 137.953,
+                "end_time": 142.92,
+                "trans": [
+                    {
+                        "text": "de",
+                        "start_time": 138.07,
+                        "end_time": 138.16
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 138.16,
+                        "end_time": 138.28
+                    },
+                    {
+                        "text": "azotea",
+                        "start_time": 138.28,
+                        "end_time": 138.76
+                    },
+                    {
+                        "text": "Le",
+                        "start_time": 138.76,
+                        "end_time": 138.88
+                    },
+                    {
+                        "text": "han",
+                        "start_time": 138.88,
+                        "end_time": 138.94
+                    },
+                    {
+                        "text": "intervenido",
+                        "start_time": 138.94,
+                        "end_time": 139.43
+                    },
+                    {
+                        "text": "un",
+                        "start_time": 139.43,
+                        "end_time": 139.51
+                    },
+                    {
+                        "text": "disco",
+                        "start_time": 139.51,
+                        "end_time": 139.78
+                    },
+                    {
+                        "text": "duro",
+                        "start_time": 139.78,
+                        "end_time": 139.99
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 139.99,
+                        "end_time": 140.05
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 140.05,
+                        "end_time": 140.14
+                    },
+                    {
+                        "text": "teléfono",
+                        "start_time": 140.14,
+                        "end_time": 140.56
+                    },
+                    {
+                        "text": "móvil",
+                        "start_time": 140.56,
+                        "end_time": 140.92
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 140.92,
+                        "end_time": 141.07
+                    },
+                    {
+                        "text": "hombre",
+                        "start_time": 141.07,
+                        "end_time": 141.4
+                    },
+                    {
+                        "text": "ha",
+                        "start_time": 141.4,
+                        "end_time": 141.49
+                    },
+                    {
+                        "text": "pasado",
+                        "start_time": 141.49,
+                        "end_time": 141.79
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 141.79,
+                        "end_time": 141.82
+                    },
+                    {
+                        "text": "disposición",
+                        "start_time": 141.82,
+                        "end_time": 142.33
+                    },
+                    {
+                        "text": "judicial",
+                        "start_time": 142.33,
+                        "end_time": 142.92
+                    }
+                ]
+            },
+            {
+                "voice": "Voz 1762",
+                "start_time": 142.92,
+                "end_time": 147.126,
+                "trans": [
+                    {
+                        "text": "la",
+                        "start_time": 142.92,
+                        "end_time": 143.01
+                    },
+                    {
+                        "text": "Policía",
+                        "start_time": 143.01,
+                        "end_time": 143.37
+                    },
+                    {
+                        "text": "ha",
+                        "start_time": 143.37,
+                        "end_time": 143.4
+                    },
+                    {
+                        "text": "detenido",
+                        "start_time": 143.4,
+                        "end_time": 143.76
+                    },
+                    {
+                        "text": "además",
+                        "start_time": 143.76,
+                        "end_time": 144.09
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 144.09,
+                        "end_time": 144.21
+                    },
+                    {
+                        "text": "nueve",
+                        "start_time": 144.21,
+                        "end_time": 144.57
+                    },
+                    {
+                        "text": "personas",
+                        "start_time": 144.57,
+                        "end_time": 145.14
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 145.14,
+                        "end_time": 145.26
+                    },
+                    {
+                        "text": "han",
+                        "start_time": 145.26,
+                        "end_time": 145.35
+                    },
+                    {
+                        "text": "defraudado",
+                        "start_time": 145.35,
+                        "end_time": 145.95
+                    },
+                    {
+                        "text": "seis",
+                        "start_time": 145.95,
+                        "end_time": 146.25
+                    },
+                    {
+                        "text": "millones",
+                        "start_time": 146.25,
+                        "end_time": 146.64
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 146.64,
+                        "end_time": 146.7
+                    },
+                    {
+                        "text": "euros",
+                        "start_time": 146.7,
+                        "end_time": 146.94
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 146.94,
+                        "end_time": 147.0
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 147.0,
+                        "end_time": 147.09
+                    },
+                    {
+                        "text": "Seguridad",
+                        "start_time": 147.09,
+                        "end_time": 147.48
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/34.wav",
+        "start_time": 147.505,
+        "end_time": 148.704,
+        "voices": [
+            {
+                "voice": "Voz 1762",
+                "start_time": 147.505,
+                "end_time": 148.704,
+                "trans": [
+                    {
+                        "text": "cobrando",
+                        "start_time": 147.78,
+                        "end_time": 148.11
+                    },
+                    {
+                        "text": "pensiones",
+                        "start_time": 148.11,
+                        "end_time": 148.53
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 148.53,
+                        "end_time": 148.59
+                    },
+                    {
+                        "text": "personas",
+                        "start_time": 148.59,
+                        "end_time": 148.98
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/35.wav",
+        "start_time": 149.421,
+        "end_time": 160.444,
+        "voices": [
+            {
+                "voice": "Voz 1762",
+                "start_time": 149.421,
+                "end_time": 160.444,
+                "trans": [
+                    {
+                        "text": "echó",
+                        "start_time": 149.88,
+                        "end_time": 150.12
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 150.12,
+                        "end_time": 150.21
+                    },
+                    {
+                        "text": "mayoría",
+                        "start_time": 150.21,
+                        "end_time": 150.54
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 150.54,
+                        "end_time": 150.63
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 150.63,
+                        "end_time": 150.8
+                    },
+                    {
+                        "text": "investigados",
+                        "start_time": 150.8,
+                        "end_time": 151.28
+                    },
+                    {
+                        "text": "son",
+                        "start_time": 151.28,
+                        "end_time": 151.4
+                    },
+                    {
+                        "text": "familiares",
+                        "start_time": 151.4,
+                        "end_time": 152.03
+                    },
+                    {
+                        "text": "o",
+                        "start_time": 152.03,
+                        "end_time": 152.15
+                    },
+                    {
+                        "text": "amigos",
+                        "start_time": 152.15,
+                        "end_time": 152.93
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 152.93,
+                        "end_time": 153.05
+                    },
+                    {
+                        "text": "ocultaban",
+                        "start_time": 153.05,
+                        "end_time": 153.47
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 153.47,
+                        "end_time": 153.56
+                    },
+                    {
+                        "text": "muerte",
+                        "start_time": 153.56,
+                        "end_time": 153.8
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 153.8,
+                        "end_time": 153.89
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 153.89,
+                        "end_time": 153.98
+                    },
+                    {
+                        "text": "pensionistas",
+                        "start_time": 153.98,
+                        "end_time": 154.88
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 154.88,
+                        "end_time": 155.0
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 155.0,
+                        "end_time": 155.15
+                    },
+                    {
+                        "text": "llegaron",
+                        "start_time": 155.15,
+                        "end_time": 155.48
+                    },
+                    {
+                        "text": "incluso",
+                        "start_time": 155.48,
+                        "end_time": 155.93
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 155.93,
+                        "end_time": 156.08
+                    },
+                    {
+                        "text": "falsificar",
+                        "start_time": 156.08,
+                        "end_time": 156.77
+                    },
+                    {
+                        "text": "sus",
+                        "start_time": 156.77,
+                        "end_time": 157.1
+                    },
+                    {
+                        "text": "firmas",
+                        "start_time": 157.1,
+                        "end_time": 157.61
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 157.61,
+                        "end_time": 157.64
+                    },
+                    {
+                        "text": "un",
+                        "start_time": 157.64,
+                        "end_time": 157.76
+                    },
+                    {
+                        "text": "apunte",
+                        "start_time": 157.76,
+                        "end_time": 158.06
+                    },
+                    {
+                        "text": "más",
+                        "start_time": 158.06,
+                        "end_time": 158.24
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 158.24,
+                        "end_time": 158.33
+                    },
+                    {
+                        "text": "economía",
+                        "start_time": 158.33,
+                        "end_time": 158.72
+                    },
+                    {
+                        "text": "al",
+                        "start_time": 158.72,
+                        "end_time": 158.78
+                    },
+                    {
+                        "text": "precio",
+                        "start_time": 158.78,
+                        "end_time": 159.05
+                    },
+                    {
+                        "text": "del",
+                        "start_time": 159.05,
+                        "end_time": 159.17
+                    },
+                    {
+                        "text": "barril",
+                        "start_time": 159.17,
+                        "end_time": 159.47
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 159.47,
+                        "end_time": 159.56
+                    },
+                    {
+                        "text": "petróleo",
+                        "start_time": 159.56,
+                        "end_time": 159.92
+                    },
+                    {
+                        "text": "Brent",
+                        "start_time": 159.92,
+                        "end_time": 160.55
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/36.wav",
+        "start_time": 160.849,
+        "end_time": 162.839,
+        "voices": [
+            {
+                "voice": "Voz 1762",
+                "start_time": 160.849,
+                "end_time": 162.839,
+                "trans": [
+                    {
+                        "text": "se",
+                        "start_time": 160.91,
+                        "end_time": 161.0
+                    },
+                    {
+                        "text": "utiliza",
+                        "start_time": 161.0,
+                        "end_time": 161.36
+                    },
+                    {
+                        "text": "como",
+                        "start_time": 161.36,
+                        "end_time": 161.57
+                    },
+                    {
+                        "text": "referencia",
+                        "start_time": 161.57,
+                        "end_time": 162.08
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 162.08,
+                        "end_time": 162.14
+                    },
+                    {
+                        "text": "Europa",
+                        "start_time": 162.14,
+                        "end_time": 162.76
+                    },
+                    {
+                        "text": "se",
+                        "start_time": 162.76,
+                        "end_time": 162.9
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/37.wav",
+        "start_time": 163.208,
+        "end_time": 164.524,
+        "voices": [
+            {
+                "voice": "Voz 1762",
+                "start_time": 163.208,
+                "end_time": 164.524,
+                "trans": [
+                    {
+                        "text": "esta",
+                        "start_time": 163.28,
+                        "end_time": 163.43
+                    },
+                    {
+                        "text": "mañana",
+                        "start_time": 163.43,
+                        "end_time": 163.73
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 163.73,
+                        "end_time": 163.79
+                    },
+                    {
+                        "text": "su",
+                        "start_time": 163.79,
+                        "end_time": 163.88
+                    },
+                    {
+                        "text": "nivel",
+                        "start_time": 163.88,
+                        "end_time": 164.09
+                    },
+                    {
+                        "text": "más",
+                        "start_time": 164.09,
+                        "end_time": 164.27
+                    },
+                    {
+                        "text": "bajo",
+                        "start_time": 164.27,
+                        "end_time": 164.51
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 164.51,
+                        "end_time": 164.63
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/38.wav",
+        "start_time": 164.877,
+        "end_time": 171.474,
+        "voices": [
+            {
+                "voice": "Voz 1762",
+                "start_time": 164.877,
+                "end_time": 171.474,
+                "trans": [
+                    {
+                        "text": "año",
+                        "start_time": 164.93,
+                        "end_time": 165.14
+                    },
+                    {
+                        "text": "está",
+                        "start_time": 165.14,
+                        "end_time": 165.32
+                    },
+                    {
+                        "text": "por",
+                        "start_time": 165.32,
+                        "end_time": 165.47
+                    },
+                    {
+                        "text": "debajo",
+                        "start_time": 165.47,
+                        "end_time": 165.77
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 165.77,
+                        "end_time": 165.89
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 165.89,
+                        "end_time": 166.37
+                    },
+                    {
+                        "text": "sesenta",
+                        "start_time": 166.37,
+                        "end_time": 167.0
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 167.0,
+                        "end_time": 167.06
+                    },
+                    {
+                        "text": "dos",
+                        "start_time": 167.06,
+                        "end_time": 167.27
+                    },
+                    {
+                        "text": "dólares",
+                        "start_time": 167.27,
+                        "end_time": 167.63
+                    },
+                    {
+                        "text": "además",
+                        "start_time": 167.63,
+                        "end_time": 167.96
+                    },
+                    {
+                        "text": "ahora",
+                        "start_time": 167.96,
+                        "end_time": 168.17
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 168.17,
+                        "end_time": 168.26
+                    },
+                    {
+                        "text": "IBEX",
+                        "start_time": 168.26,
+                        "end_time": 168.56
+                    },
+                    {
+                        "text": "treinta",
+                        "start_time": 168.56,
+                        "end_time": 168.86
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 168.86,
+                        "end_time": 168.89
+                    },
+                    {
+                        "text": "cinco",
+                        "start_time": 168.89,
+                        "end_time": 169.13
+                    },
+                    {
+                        "text": "Se",
+                        "start_time": 169.13,
+                        "end_time": 169.22
+                    },
+                    {
+                        "text": "nota",
+                        "start_time": 169.22,
+                        "end_time": 169.43
+                    },
+                    {
+                        "text": "cuatro",
+                        "start_time": 169.43,
+                        "end_time": 169.73
+                    },
+                    {
+                        "text": "décimas",
+                        "start_time": 169.73,
+                        "end_time": 170.55
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 170.55,
+                        "end_time": 170.6
+                    },
+                    {
+                        "text": "cotiza",
+                        "start_time": 170.6,
+                        "end_time": 171.02
+                    },
+                    {
+                        "text": "por",
+                        "start_time": 171.02,
+                        "end_time": 171.17
+                    },
+                    {
+                        "text": "encima",
+                        "start_time": 171.17,
+                        "end_time": 171.62
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/39.wav",
+        "start_time": 171.867,
+        "end_time": 175.4,
+        "voices": [
+            {
+                "voice": "Voz 1762",
+                "start_time": 171.867,
+                "end_time": 175.4,
+                "trans": [
+                    {
+                        "text": "ocho",
+                        "start_time": 171.95,
+                        "end_time": 172.16
+                    },
+                    {
+                        "text": "mil",
+                        "start_time": 172.16,
+                        "end_time": 172.34
+                    },
+                    {
+                        "text": "novecientos",
+                        "start_time": 172.34,
+                        "end_time": 172.88
+                    },
+                    {
+                        "text": "puntos",
+                        "start_time": 172.88,
+                        "end_time": 173.21
+                    },
+                    {
+                        "text": "once",
+                        "start_time": 173.21,
+                        "end_time": 173.46
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 173.46,
+                        "end_time": 173.48
+                    },
+                    {
+                        "text": "tres",
+                        "start_time": 173.48,
+                        "end_time": 173.84
+                    },
+                    {
+                        "text": "diez",
+                        "start_time": 173.84,
+                        "end_time": 174.02
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 174.02,
+                        "end_time": 174.08
+                    },
+                    {
+                        "text": "tres",
+                        "start_time": 174.08,
+                        "end_time": 174.26
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 174.26,
+                        "end_time": 174.38
+                    },
+                    {
+                        "text": "Canarias",
+                        "start_time": 174.38,
+                        "end_time": 175.16
+                    },
+                    {
+                        "text": "tiempo",
+                        "start_time": 175.16,
+                        "end_time": 175.46
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/40.wav",
+        "start_time": 175.866,
+        "end_time": 179.438,
+        "voices": [
+            {
+                "voice": "Voz 1762",
+                "start_time": 175.866,
+                "end_time": 179.438,
+                "trans": [
+                    {
+                        "text": "para",
+                        "start_time": 175.91,
+                        "end_time": 176.12
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 176.12,
+                        "end_time": 176.18
+                    },
+                    {
+                        "text": "información",
+                        "start_time": 176.18,
+                        "end_time": 176.72
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 176.72,
+                        "end_time": 176.84
+                    },
+                    {
+                        "text": "su",
+                        "start_time": 176.84,
+                        "end_time": 176.96
+                    },
+                    {
+                        "text": "comunidad",
+                        "start_time": 176.96,
+                        "end_time": 180.27
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/41.wav",
+        "start_time": 179.836,
+        "end_time": 180.562,
+        "voices": [
+            {
+                "voice": "Voz 1762",
+                "start_time": 179.836,
+                "end_time": 180.27,
+                "trans": []
+            },
+            {
+                "voice": "Voz 4",
+                "start_time": 180.27,
+                "end_time": 180.562,
+                "trans": [
+                    {
+                        "text": "cadena",
+                        "start_time": 180.27,
+                        "end_time": 180.75
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/42.wav",
+        "start_time": 180.813,
+        "end_time": 182.905,
+        "voices": [
+            {
+                "voice": "Voz 4",
+                "start_time": 180.813,
+                "end_time": 182.31,
+                "trans": [
+                    {
+                        "text": "Madrid",
+                        "start_time": 181.14,
+                        "end_time": 182.31
+                    }
+                ]
+            },
+            {
+                "voice": "Voz 0821",
+                "start_time": 182.31,
+                "end_time": 182.905,
+                "trans": [
+                    {
+                        "text": "jornada",
+                        "start_time": 182.31,
+                        "end_time": 182.91
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/43.wav",
+        "start_time": 184.144,
+        "end_time": 197.819,
+        "voices": [
+            {
+                "voice": "Voz 0821",
+                "start_time": 184.144,
+                "end_time": 197.819,
+                "trans": [
+                    {
+                        "text": "que",
+                        "start_time": 184.59,
+                        "end_time": 184.74
+                    },
+                    {
+                        "text": "Amazon",
+                        "start_time": 184.74,
+                        "end_time": 185.19
+                    },
+                    {
+                        "text": "tiene",
+                        "start_time": 185.19,
+                        "end_time": 185.41
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 185.41,
+                        "end_time": 185.55
+                    },
+                    {
+                        "text": "España",
+                        "start_time": 185.55,
+                        "end_time": 186.0
+                    },
+                    {
+                        "text": "está",
+                        "start_time": 186.0,
+                        "end_time": 186.19
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 186.19,
+                        "end_time": 186.24
+                    },
+                    {
+                        "text": "San",
+                        "start_time": 186.24,
+                        "end_time": 186.42
+                    },
+                    {
+                        "text": "Fernando",
+                        "start_time": 186.42,
+                        "end_time": 186.81
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 186.81,
+                        "end_time": 186.9
+                    },
+                    {
+                        "text": "Henares",
+                        "start_time": 186.9,
+                        "end_time": 187.35
+                    },
+                    {
+                        "text": "protesta",
+                        "start_time": 187.35,
+                        "end_time": 187.86
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 187.86,
+                        "end_time": 187.92
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 187.92,
+                        "end_time": 188.04
+                    },
+                    {
+                        "text": "trabajadores",
+                        "start_time": 188.04,
+                        "end_time": 188.73
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 188.73,
+                        "end_time": 188.85
+                    },
+                    {
+                        "text": "coincide",
+                        "start_time": 188.85,
+                        "end_time": 189.24
+                    },
+                    {
+                        "text": "con",
+                        "start_time": 189.24,
+                        "end_time": 189.36
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 189.36,
+                        "end_time": 189.45
+                    },
+                    {
+                        "text": "Black",
+                        "start_time": 189.45,
+                        "end_time": 189.66
+                    },
+                    {
+                        "text": "Friday",
+                        "start_time": 189.66,
+                        "end_time": 190.05
+                    },
+                    {
+                        "text": "para",
+                        "start_time": 190.05,
+                        "end_time": 190.29
+                    },
+                    {
+                        "text": "denunciar",
+                        "start_time": 190.29,
+                        "end_time": 190.86
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 190.86,
+                        "end_time": 191.01
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 191.01,
+                        "end_time": 191.07
+                    },
+                    {
+                        "text": "nuevo",
+                        "start_time": 191.07,
+                        "end_time": 191.31
+                    },
+                    {
+                        "text": "convenio",
+                        "start_time": 191.31,
+                        "end_time": 191.64
+                    },
+                    {
+                        "text": "colectivo",
+                        "start_time": 191.64,
+                        "end_time": 192.06
+                    },
+                    {
+                        "text": "empeora",
+                        "start_time": 192.06,
+                        "end_time": 192.45
+                    },
+                    {
+                        "text": "sus",
+                        "start_time": 192.45,
+                        "end_time": 192.63
+                    },
+                    {
+                        "text": "condiciones",
+                        "start_time": 192.63,
+                        "end_time": 193.62
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 193.62,
+                        "end_time": 193.92
+                    },
+                    {
+                        "text": "trabajadores",
+                        "start_time": 193.92,
+                        "end_time": 194.52
+                    },
+                    {
+                        "text": "aseguran",
+                        "start_time": 194.52,
+                        "end_time": 195.03
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 195.03,
+                        "end_time": 195.09
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 195.09,
+                        "end_time": 195.15
+                    },
+                    {
+                        "text": "seguimiento",
+                        "start_time": 195.15,
+                        "end_time": 195.54
+                    },
+                    {
+                        "text": "está",
+                        "start_time": 195.54,
+                        "end_time": 195.69
+                    },
+                    {
+                        "text": "siendo",
+                        "start_time": 195.69,
+                        "end_time": 195.99
+                    },
+                    {
+                        "text": "del",
+                        "start_time": 195.99,
+                        "end_time": 196.14
+                    },
+                    {
+                        "text": "ochenta",
+                        "start_time": 196.14,
+                        "end_time": 196.56
+                    },
+                    {
+                        "text": "por",
+                        "start_time": 196.56,
+                        "end_time": 196.71
+                    },
+                    {
+                        "text": "ciento",
+                        "start_time": 196.71,
+                        "end_time": 197.04
+                    },
+                    {
+                        "text": "SER",
+                        "start_time": 197.04,
+                        "end_time": 197.25
+                    },
+                    {
+                        "text": "Henares",
+                        "start_time": 197.25,
+                        "end_time": 197.55
+                    },
+                    {
+                        "text": "Javier",
+                        "start_time": 197.55,
+                        "end_time": 197.79
+                    },
+                    {
+                        "text": "Galicia",
+                        "start_time": 197.79,
+                        "end_time": 198.52
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/44.wav",
+        "start_time": 198.246,
+        "end_time": 202.246,
+        "voices": [
+            {
+                "voice": "Voz 0821",
+                "start_time": 198.246,
+                "end_time": 198.52,
+                "trans": []
+            },
+            {
+                "voice": "Voz 5",
+                "start_time": 198.52,
+                "end_time": 202.246,
+                "trans": [
+                    {
+                        "text": "prácticamente",
+                        "start_time": 198.52,
+                        "end_time": 199.15
+                    },
+                    {
+                        "text": "parado",
+                        "start_time": 199.15,
+                        "end_time": 199.42
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 199.42,
+                        "end_time": 199.48
+                    },
+                    {
+                        "text": "pleno",
+                        "start_time": 199.48,
+                        "end_time": 199.75
+                    },
+                    {
+                        "text": "Black",
+                        "start_time": 199.75,
+                        "end_time": 199.96
+                    },
+                    {
+                        "text": "Friday",
+                        "start_time": 199.96,
+                        "end_time": 200.32
+                    },
+                    {
+                        "text": "está",
+                        "start_time": 200.32,
+                        "end_time": 200.56
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 200.56,
+                        "end_time": 200.65
+                    },
+                    {
+                        "text": "almacén",
+                        "start_time": 200.65,
+                        "end_time": 201.01
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 201.01,
+                        "end_time": 201.13
+                    },
+                    {
+                        "text": "Amazon",
+                        "start_time": 201.13,
+                        "end_time": 201.46
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 201.46,
+                        "end_time": 201.55
+                    },
+                    {
+                        "text": "San",
+                        "start_time": 201.55,
+                        "end_time": 201.7
+                    },
+                    {
+                        "text": "Fernando",
+                        "start_time": 201.7,
+                        "end_time": 202.09
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 202.09,
+                        "end_time": 202.21
+                    },
+                    {
+                        "text": "Henares",
+                        "start_time": 202.21,
+                        "end_time": 202.51
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/45.wav",
+        "start_time": 202.654,
+        "end_time": 205.522,
+        "voices": [
+            {
+                "voice": "Voz 5",
+                "start_time": 202.654,
+                "end_time": 205.522,
+                "trans": [
+                    {
+                        "text": "los",
+                        "start_time": 202.75,
+                        "end_time": 202.84
+                    },
+                    {
+                        "text": "sindicatos",
+                        "start_time": 202.84,
+                        "end_time": 203.35
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 203.35,
+                        "end_time": 203.47
+                    },
+                    {
+                        "text": "respaldo",
+                        "start_time": 203.47,
+                        "end_time": 203.83
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 203.83,
+                        "end_time": 203.86
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 203.86,
+                        "end_time": 203.95
+                    },
+                    {
+                        "text": "huelga",
+                        "start_time": 203.95,
+                        "end_time": 204.22
+                    },
+                    {
+                        "text": "es",
+                        "start_time": 204.22,
+                        "end_time": 204.34
+                    },
+                    {
+                        "text": "del",
+                        "start_time": 204.34,
+                        "end_time": 204.43
+                    },
+                    {
+                        "text": "ochenta",
+                        "start_time": 204.43,
+                        "end_time": 204.73
+                    },
+                    {
+                        "text": "por",
+                        "start_time": 204.73,
+                        "end_time": 204.85
+                    },
+                    {
+                        "text": "ciento",
+                        "start_time": 204.85,
+                        "end_time": 205.09
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 205.09,
+                        "end_time": 205.15
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 205.15,
+                        "end_time": 205.21
+                    },
+                    {
+                        "text": "primer",
+                        "start_time": 205.21,
+                        "end_time": 205.51
+                    },
+                    {
+                        "text": "turno",
+                        "start_time": 205.51,
+                        "end_time": 205.84
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/46.wav",
+        "start_time": 206.207,
+        "end_time": 212.026,
+        "voices": [
+            {
+                "voice": "Voz 5",
+                "start_time": 206.207,
+                "end_time": 212.026,
+                "trans": [
+                    {
+                        "text": "y",
+                        "start_time": 206.47,
+                        "end_time": 206.53
+                    },
+                    {
+                        "text": "ocho",
+                        "start_time": 206.53,
+                        "end_time": 206.83
+                    },
+                    {
+                        "text": "horas",
+                        "start_time": 206.83,
+                        "end_time": 207.07
+                    },
+                    {
+                        "text": "seguidas",
+                        "start_time": 207.07,
+                        "end_time": 207.46
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 207.46,
+                        "end_time": 207.58
+                    },
+                    {
+                        "text": "paro",
+                        "start_time": 207.58,
+                        "end_time": 207.85
+                    },
+                    {
+                        "text": "convocado",
+                        "start_time": 207.85,
+                        "end_time": 208.36
+                    },
+                    {
+                        "text": "por",
+                        "start_time": 208.36,
+                        "end_time": 208.54
+                    },
+                    {
+                        "text": "CGT",
+                        "start_time": 208.54,
+                        "end_time": 208.9
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 208.9,
+                        "end_time": 208.97
+                    },
+                    {
+                        "text": "CCOO",
+                        "start_time": 208.97,
+                        "end_time": 209.98
+                    },
+                    {
+                        "text": "exigen",
+                        "start_time": 209.98,
+                        "end_time": 210.34
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 210.34,
+                        "end_time": 210.37
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 210.37,
+                        "end_time": 210.46
+                    },
+                    {
+                        "text": "multinacional",
+                        "start_time": 210.46,
+                        "end_time": 211.03
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 211.03,
+                        "end_time": 211.18
+                    },
+                    {
+                        "text": "devuelva",
+                        "start_time": 211.18,
+                        "end_time": 211.48
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 211.48,
+                        "end_time": 211.51
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 211.51,
+                        "end_time": 211.6
+                    },
+                    {
+                        "text": "trabajadores",
+                        "start_time": 211.6,
+                        "end_time": 212.14
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/47.wav",
+        "start_time": 212.313,
+        "end_time": 214.241,
+        "voices": [
+            {
+                "voice": "Voz 5",
+                "start_time": 212.313,
+                "end_time": 214.241,
+                "trans": [
+                    {
+                        "text": "perdidas",
+                        "start_time": 212.71,
+                        "end_time": 213.13
+                    },
+                    {
+                        "text": "tras",
+                        "start_time": 213.13,
+                        "end_time": 213.28
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 213.28,
+                        "end_time": 213.37
+                    },
+                    {
+                        "text": "aplicación",
+                        "start_time": 213.37,
+                        "end_time": 213.82
+                    },
+                    {
+                        "text": "unilateral",
+                        "start_time": 213.82,
+                        "end_time": 214.36
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/48.wav",
+        "start_time": 214.712,
+        "end_time": 219.285,
+        "voices": [
+            {
+                "voice": "Voz 5",
+                "start_time": 214.712,
+                "end_time": 218.51,
+                "trans": [
+                    {
+                        "text": "de",
+                        "start_time": 214.78,
+                        "end_time": 214.87
+                    },
+                    {
+                        "text": "Amazon",
+                        "start_time": 214.87,
+                        "end_time": 215.44
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 215.44,
+                        "end_time": 215.62
+                    },
+                    {
+                        "text": "un",
+                        "start_time": 215.62,
+                        "end_time": 215.74
+                    },
+                    {
+                        "text": "nuevo",
+                        "start_time": 215.74,
+                        "end_time": 215.98
+                    },
+                    {
+                        "text": "convenio",
+                        "start_time": 215.98,
+                        "end_time": 216.64
+                    },
+                    {
+                        "text": "Eduardo",
+                        "start_time": 216.64,
+                        "end_time": 217.06
+                    },
+                    {
+                        "text": "es",
+                        "start_time": 217.06,
+                        "end_time": 217.21
+                    },
+                    {
+                        "text": "uno",
+                        "start_time": 217.21,
+                        "end_time": 217.36
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 217.36,
+                        "end_time": 217.42
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 217.42,
+                        "end_time": 217.54
+                    },
+                    {
+                        "text": "trabajadores",
+                        "start_time": 217.54,
+                        "end_time": 218.05
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 218.05,
+                        "end_time": 218.17
+                    },
+                    {
+                        "text": "huelga",
+                        "start_time": 218.17,
+                        "end_time": 218.51
+                    }
+                ]
+            },
+            {
+                "voice": "Voz 6",
+                "start_time": 218.51,
+                "end_time": 219.285,
+                "trans": [
+                    {
+                        "text": "a",
+                        "start_time": 218.51,
+                        "end_time": 218.58
+                    },
+                    {
+                        "text": "través",
+                        "start_time": 218.58,
+                        "end_time": 218.9
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 218.9,
+                        "end_time": 219.05
+                    },
+                    {
+                        "text": "reivindicaciones",
+                        "start_time": 219.05,
+                        "end_time": 219.78
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/49.wav",
+        "start_time": 219.749,
+        "end_time": 221.495,
+        "voices": [
+            {
+                "voice": "Voz 6",
+                "start_time": 219.749,
+                "end_time": 221.495,
+                "trans": [
+                    {
+                        "text": "son",
+                        "start_time": 219.78,
+                        "end_time": 220.48
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 220.48,
+                        "end_time": 220.66
+                    },
+                    {
+                        "text": "primeros",
+                        "start_time": 220.66,
+                        "end_time": 220.91
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 220.91,
+                        "end_time": 220.97
+                    },
+                    {
+                        "text": "no",
+                        "start_time": 220.97,
+                        "end_time": 221.15
+                    },
+                    {
+                        "text": "devuelvan",
+                        "start_time": 221.15,
+                        "end_time": 221.54
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/50.wav",
+        "start_time": 221.827,
+        "end_time": 221.828,
+        "voices": [
+            {
+                "voice": "Voz 6",
+                "start_time": 221.827,
+                "end_time": 221.828,
+                "trans": []
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/51.wav",
+        "start_time": 222.725,
+        "end_time": 224.689,
+        "voices": [
+            {
+                "voice": "Voz 6",
+                "start_time": 222.725,
+                "end_time": 224.689,
+                "trans": [
+                    {
+                        "text": "que",
+                        "start_time": 223.01,
+                        "end_time": 223.16
+                    },
+                    {
+                        "text": "con",
+                        "start_time": 223.16,
+                        "end_time": 223.28
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 223.28,
+                        "end_time": 223.34
+                    },
+                    {
+                        "text": "convenio",
+                        "start_time": 223.34,
+                        "end_time": 223.64
+                    },
+                    {
+                        "text": "nuevo",
+                        "start_time": 223.64,
+                        "end_time": 223.82
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 223.82,
+                        "end_time": 223.91
+                    },
+                    {
+                        "text": "nos",
+                        "start_time": 223.91,
+                        "end_time": 224.03
+                    },
+                    {
+                        "text": "han",
+                        "start_time": 224.03,
+                        "end_time": 224.15
+                    },
+                    {
+                        "text": "hecho",
+                        "start_time": 224.15,
+                        "end_time": 224.36
+                    },
+                    {
+                        "text": "hemos",
+                        "start_time": 224.36,
+                        "end_time": 224.54
+                    },
+                    {
+                        "text": "perdido",
+                        "start_time": 224.54,
+                        "end_time": 224.87
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/52.wav",
+        "start_time": 224.955,
+        "end_time": 225.382,
+        "voices": [
+            {
+                "voice": "Voz 6",
+                "start_time": 224.955,
+                "end_time": 225.382,
+                "trans": []
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/53.wav",
+        "start_time": 225.723,
+        "end_time": 239.507,
+        "voices": [
+            {
+                "voice": "Voz 6",
+                "start_time": 225.723,
+                "end_time": 234.07,
+                "trans": [
+                    {
+                        "text": "teníamos",
+                        "start_time": 225.8,
+                        "end_time": 226.13
+                    },
+                    {
+                        "text": "adquirida",
+                        "start_time": 226.13,
+                        "end_time": 226.52
+                    },
+                    {
+                        "text": "como",
+                        "start_time": 226.52,
+                        "end_time": 226.7
+                    },
+                    {
+                        "text": "por",
+                        "start_time": 226.7,
+                        "end_time": 226.85
+                    },
+                    {
+                        "text": "ejemplo",
+                        "start_time": 226.85,
+                        "end_time": 227.33
+                    },
+                    {
+                        "text": "conciliación",
+                        "start_time": 227.33,
+                        "end_time": 227.78
+                    },
+                    {
+                        "text": "familiar",
+                        "start_time": 227.78,
+                        "end_time": 228.68
+                    },
+                    {
+                        "text": "e",
+                        "start_time": 228.68,
+                        "end_time": 228.92
+                    },
+                    {
+                        "text": "Garantía",
+                        "start_time": 228.92,
+                        "end_time": 229.25
+                    },
+                    {
+                        "text": "Salarial",
+                        "start_time": 229.25,
+                        "end_time": 229.88
+                    },
+                    {
+                        "text": "baja",
+                        "start_time": 229.88,
+                        "end_time": 230.18
+                    },
+                    {
+                        "text": "IT",
+                        "start_time": 230.18,
+                        "end_time": 230.45
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 230.45,
+                        "end_time": 230.54
+                    },
+                    {
+                        "text": "es",
+                        "start_time": 230.54,
+                        "end_time": 230.63
+                    },
+                    {
+                        "text": "una",
+                        "start_time": 230.63,
+                        "end_time": 231.02
+                    },
+                    {
+                        "text": "baja",
+                        "start_time": 231.02,
+                        "end_time": 231.26
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 231.26,
+                        "end_time": 231.35
+                    },
+                    {
+                        "text": "no",
+                        "start_time": 231.35,
+                        "end_time": 231.41
+                    },
+                    {
+                        "text": "pagaban",
+                        "start_time": 231.41,
+                        "end_time": 231.71
+                    },
+                    {
+                        "text": "desde",
+                        "start_time": 231.71,
+                        "end_time": 231.86
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 231.86,
+                        "end_time": 231.92
+                    },
+                    {
+                        "text": "primer",
+                        "start_time": 231.92,
+                        "end_time": 232.19
+                    },
+                    {
+                        "text": "día",
+                        "start_time": 232.19,
+                        "end_time": 232.31
+                    },
+                    {
+                        "text": "al",
+                        "start_time": 232.31,
+                        "end_time": 232.37
+                    },
+                    {
+                        "text": "cien",
+                        "start_time": 232.37,
+                        "end_time": 232.52
+                    },
+                    {
+                        "text": "por",
+                        "start_time": 232.52,
+                        "end_time": 232.67
+                    },
+                    {
+                        "text": "cien",
+                        "start_time": 232.67,
+                        "end_time": 233.31
+                    },
+                    {
+                        "text": "llegaran",
+                        "start_time": 233.31,
+                        "end_time": 233.52
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 233.52,
+                        "end_time": 233.64
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 233.64,
+                        "end_time": 233.75
+                    },
+                    {
+                        "text": "Guirado",
+                        "start_time": 233.75,
+                        "end_time": 234.07
+                    }
+                ]
+            },
+            {
+                "voice": "Voz 5",
+                "start_time": 234.07,
+                "end_time": 239.507,
+                "trans": [
+                    {
+                        "text": "para",
+                        "start_time": 234.07,
+                        "end_time": 234.46
+                    },
+                    {
+                        "text": "esta",
+                        "start_time": 234.46,
+                        "end_time": 234.61
+                    },
+                    {
+                        "text": "tarde",
+                        "start_time": 234.61,
+                        "end_time": 234.85
+                    },
+                    {
+                        "text": "se",
+                        "start_time": 234.85,
+                        "end_time": 234.94
+                    },
+                    {
+                        "text": "ha",
+                        "start_time": 234.94,
+                        "end_time": 234.97
+                    },
+                    {
+                        "text": "convocado",
+                        "start_time": 234.97,
+                        "end_time": 235.45
+                    },
+                    {
+                        "text": "rodea",
+                        "start_time": 235.45,
+                        "end_time": 235.89
+                    },
+                    {
+                        "text": "Amazon",
+                        "start_time": 235.89,
+                        "end_time": 236.26
+                    },
+                    {
+                        "text": "con",
+                        "start_time": 236.26,
+                        "end_time": 236.4
+                    },
+                    {
+                        "text": "manifestación",
+                        "start_time": 236.4,
+                        "end_time": 237.01
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 237.01,
+                        "end_time": 237.1
+                    },
+                    {
+                        "text": "las",
+                        "start_time": 237.1,
+                        "end_time": 237.25
+                    },
+                    {
+                        "text": "seis",
+                        "start_time": 237.25,
+                        "end_time": 237.4
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 237.4,
+                        "end_time": 237.49
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 237.49,
+                        "end_time": 237.58
+                    },
+                    {
+                        "text": "tarde",
+                        "start_time": 237.58,
+                        "end_time": 237.85
+                    },
+                    {
+                        "text": "desde",
+                        "start_time": 237.85,
+                        "end_time": 238.09
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 238.09,
+                        "end_time": 238.18
+                    },
+                    {
+                        "text": "estación",
+                        "start_time": 238.18,
+                        "end_time": 238.54
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 238.54,
+                        "end_time": 238.6
+                    },
+                    {
+                        "text": "tren",
+                        "start_time": 238.6,
+                        "end_time": 238.81
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 238.81,
+                        "end_time": 238.9
+                    },
+                    {
+                        "text": "Torrejón",
+                        "start_time": 238.9,
+                        "end_time": 239.2
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 239.2,
+                        "end_time": 239.26
+                    },
+                    {
+                        "text": "Ardoz",
+                        "start_time": 239.26,
+                        "end_time": 239.71
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/54.wav",
+        "start_time": 239.936,
+        "end_time": 243.337,
+        "voices": [
+            {
+                "voice": "Voz 5",
+                "start_time": 239.936,
+                "end_time": 241.1,
+                "trans": [
+                    {
+                        "text": "el",
+                        "start_time": 239.98,
+                        "end_time": 240.04
+                    },
+                    {
+                        "text": "almacén",
+                        "start_time": 240.04,
+                        "end_time": 240.4
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 240.4,
+                        "end_time": 240.49
+                    },
+                    {
+                        "text": "San",
+                        "start_time": 240.49,
+                        "end_time": 240.64
+                    },
+                    {
+                        "text": "Fernando",
+                        "start_time": 240.64,
+                        "end_time": 241.1
+                    }
+                ]
+            },
+            {
+                "voice": "Voz 0821",
+                "start_time": 241.1,
+                "end_time": 243.337,
+                "trans": [
+                    {
+                        "text": "el",
+                        "start_time": 241.1,
+                        "end_time": 241.28
+                    },
+                    {
+                        "text": "consejero",
+                        "start_time": 241.28,
+                        "end_time": 241.79
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 241.79,
+                        "end_time": 241.85
+                    },
+                    {
+                        "text": "Educación",
+                        "start_time": 241.85,
+                        "end_time": 242.33
+                    },
+                    {
+                        "text": "Rafael",
+                        "start_time": 242.33,
+                        "end_time": 242.63
+                    },
+                    {
+                        "text": "va",
+                        "start_time": 242.63,
+                        "end_time": 242.71
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 242.71,
+                        "end_time": 242.76
+                    },
+                    {
+                        "text": "Hungría",
+                        "start_time": 242.76,
+                        "end_time": 242.96
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 242.96,
+                        "end_time": 243.07
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 243.07,
+                        "end_time": 243.14
+                    },
+                    {
+                        "text": "acusa",
+                        "start_time": 243.14,
+                        "end_time": 243.68
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/55.wav",
+        "start_time": 243.832,
+        "end_time": 246.895,
+        "voices": [
+            {
+                "voice": "Voz 0821",
+                "start_time": 243.832,
+                "end_time": 246.895,
+                "trans": [
+                    {
+                        "text": "Sánchez",
+                        "start_time": 244.07,
+                        "end_time": 244.52
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 244.52,
+                        "end_time": 244.58
+                    },
+                    {
+                        "text": "introducir",
+                        "start_time": 244.58,
+                        "end_time": 245.09
+                    },
+                    {
+                        "text": "comisarios",
+                        "start_time": 245.09,
+                        "end_time": 245.75
+                    },
+                    {
+                        "text": "políticos",
+                        "start_time": 245.75,
+                        "end_time": 246.44
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 246.44,
+                        "end_time": 246.56
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 246.56,
+                        "end_time": 246.65
+                    },
+                    {
+                        "text": "consejos",
+                        "start_time": 246.65,
+                        "end_time": 247.1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/56.wav",
+        "start_time": 247.732,
+        "end_time": 264.841,
+        "voices": [
+            {
+                "voice": "Voz 0821",
+                "start_time": 247.732,
+                "end_time": 263.09,
+                "trans": [
+                    {
+                        "text": "concertados",
+                        "start_time": 248.12,
+                        "end_time": 249.23
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 249.23,
+                        "end_time": 249.38
+                    },
+                    {
+                        "text": "consejero",
+                        "start_time": 249.38,
+                        "end_time": 249.8
+                    },
+                    {
+                        "text": "define",
+                        "start_time": 249.8,
+                        "end_time": 250.16
+                    },
+                    {
+                        "text": "así",
+                        "start_time": 250.16,
+                        "end_time": 250.37
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 250.37,
+                        "end_time": 250.43
+                    },
+                    {
+                        "text": "intención",
+                        "start_time": 250.43,
+                        "end_time": 250.82
+                    },
+                    {
+                        "text": "del",
+                        "start_time": 250.82,
+                        "end_time": 250.91
+                    },
+                    {
+                        "text": "Gobierno",
+                        "start_time": 250.91,
+                        "end_time": 251.21
+                    },
+                    {
+                        "text": "socialista",
+                        "start_time": 251.21,
+                        "end_time": 251.69
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 251.69,
+                        "end_time": 251.81
+                    },
+                    {
+                        "text": "recuperar",
+                        "start_time": 251.81,
+                        "end_time": 252.32
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 252.32,
+                        "end_time": 252.41
+                    },
+                    {
+                        "text": "figura",
+                        "start_time": 252.41,
+                        "end_time": 252.71
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 252.71,
+                        "end_time": 252.8
+                    },
+                    {
+                        "text": "un",
+                        "start_time": 252.8,
+                        "end_time": 252.86
+                    },
+                    {
+                        "text": "representante",
+                        "start_time": 252.86,
+                        "end_time": 253.49
+                    },
+                    {
+                        "text": "municipal",
+                        "start_time": 253.49,
+                        "end_time": 254.15
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 254.15,
+                        "end_time": 254.3
+                    },
+                    {
+                        "text": "estos",
+                        "start_time": 254.3,
+                        "end_time": 254.54
+                    },
+                    {
+                        "text": "consejos",
+                        "start_time": 254.54,
+                        "end_time": 255.44
+                    },
+                    {
+                        "text": "acusación",
+                        "start_time": 255.44,
+                        "end_time": 256.04
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 256.04,
+                        "end_time": 256.17
+                    },
+                    {
+                        "text": "sangría",
+                        "start_time": 256.17,
+                        "end_time": 256.42
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 256.42,
+                        "end_time": 256.64
+                    },
+                    {
+                        "text": "durante",
+                        "start_time": 256.64,
+                        "end_time": 256.91
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 256.91,
+                        "end_time": 257.0
+                    },
+                    {
+                        "text": "inauguración",
+                        "start_time": 257.0,
+                        "end_time": 257.51
+                    },
+                    {
+                        "text": "del",
+                        "start_time": 257.51,
+                        "end_time": 257.66
+                    },
+                    {
+                        "text": "IV",
+                        "start_time": 257.66,
+                        "end_time": 257.96
+                    },
+                    {
+                        "text": "Congreso",
+                        "start_time": 257.96,
+                        "end_time": 258.35
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 258.35,
+                        "end_time": 258.44
+                    },
+                    {
+                        "text": "Escuelas",
+                        "start_time": 258.44,
+                        "end_time": 258.77
+                    },
+                    {
+                        "text": "Católicas",
+                        "start_time": 258.77,
+                        "end_time": 259.25
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 259.25,
+                        "end_time": 259.34
+                    },
+                    {
+                        "text": "Madrid",
+                        "start_time": 259.34,
+                        "end_time": 263.09
+                    }
+                ]
+            },
+            {
+                "voice": "Voz 7",
+                "start_time": 263.09,
+                "end_time": 264.841,
+                "trans": [
+                    {
+                        "text": "hoy",
+                        "start_time": 263.09,
+                        "end_time": 263.35
+                    },
+                    {
+                        "text": "sale",
+                        "start_time": 263.35,
+                        "end_time": 264.5
+                    },
+                    {
+                        "text": "por",
+                        "start_time": 264.5,
+                        "end_time": 265.1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/57.wav",
+        "start_time": 265.115,
+        "end_time": 266.206,
+        "voices": [
+            {
+                "voice": "Voz 7",
+                "start_time": 265.115,
+                "end_time": 266.206,
+                "trans": []
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/58.wav",
+        "start_time": 266.492,
+        "end_time": 267.713,
+        "voices": [
+            {
+                "voice": "Voz 7",
+                "start_time": 266.492,
+                "end_time": 267.713,
+                "trans": []
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/59.wav",
+        "start_time": 268.034,
+        "end_time": 268.616,
+        "voices": [
+            {
+                "voice": "Voz 7",
+                "start_time": 268.034,
+                "end_time": 268.616,
+                "trans": []
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/60.wav",
+        "start_time": 269.053,
+        "end_time": 272.276,
+        "voices": [
+            {
+                "voice": "Voz 7",
+                "start_time": 269.053,
+                "end_time": 272.276,
+                "trans": []
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/61.wav",
+        "start_time": 272.641,
+        "end_time": 281.267,
+        "voices": [
+            {
+                "voice": "Voz 1694",
+                "start_time": 272.641,
+                "end_time": 281.267,
+                "trans": [
+                    {
+                        "text": "juez",
+                        "start_time": 272.85,
+                        "end_time": 273.24
+                    },
+                    {
+                        "text": "del",
+                        "start_time": 273.24,
+                        "end_time": 273.39
+                    },
+                    {
+                        "text": "caso",
+                        "start_time": 273.39,
+                        "end_time": 273.93
+                    },
+                    {
+                        "text": "del",
+                        "start_time": 273.93,
+                        "end_time": 274.08
+                    },
+                    {
+                        "text": "Rey",
+                        "start_time": 274.08,
+                        "end_time": 274.23
+                    },
+                    {
+                        "text": "del",
+                        "start_time": 274.23,
+                        "end_time": 274.33
+                    },
+                    {
+                        "text": "Cacho",
+                        "start_time": 274.33,
+                        "end_time": 274.69
+                    },
+                    {
+                        "text": "va",
+                        "start_time": 274.69,
+                        "end_time": 274.83
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 274.83,
+                        "end_time": 274.86
+                    },
+                    {
+                        "text": "tomar",
+                        "start_time": 274.86,
+                        "end_time": 275.1
+                    },
+                    {
+                        "text": "declaración",
+                        "start_time": 275.1,
+                        "end_time": 275.52
+                    },
+                    {
+                        "text": "esta",
+                        "start_time": 275.52,
+                        "end_time": 275.76
+                    },
+                    {
+                        "text": "mañana",
+                        "start_time": 275.76,
+                        "end_time": 276.27
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 276.27,
+                        "end_time": 276.42
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 276.42,
+                        "end_time": 276.54
+                    },
+                    {
+                        "text": "madre",
+                        "start_time": 276.54,
+                        "end_time": 276.81
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 276.81,
+                        "end_time": 276.9
+                    },
+                    {
+                        "text": "Heidi",
+                        "start_time": 276.9,
+                        "end_time": 277.2
+                    },
+                    {
+                        "text": "Paz",
+                        "start_time": 277.2,
+                        "end_time": 277.45
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 277.45,
+                        "end_time": 277.56
+                    },
+                    {
+                        "text": "chica",
+                        "start_time": 277.56,
+                        "end_time": 277.8
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 277.8,
+                        "end_time": 277.89
+                    },
+                    {
+                        "text": "veinticinco",
+                        "start_time": 277.89,
+                        "end_time": 278.34
+                    },
+                    {
+                        "text": "años",
+                        "start_time": 278.34,
+                        "end_time": 278.61
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 278.61,
+                        "end_time": 278.7
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 278.7,
+                        "end_time": 278.82
+                    },
+                    {
+                        "text": "que",
+                        "start_time": 278.82,
+                        "end_time": 278.94
+                    },
+                    {
+                        "text": "presuntamente",
+                        "start_time": 278.94,
+                        "end_time": 279.66
+                    },
+                    {
+                        "text": "mató",
+                        "start_time": 279.66,
+                        "end_time": 280.11
+                    },
+                    {
+                        "text": "César",
+                        "start_time": 280.11,
+                        "end_time": 280.41
+                    },
+                    {
+                        "text": "Román",
+                        "start_time": 280.41,
+                        "end_time": 280.71
+                    },
+                    {
+                        "text": "era",
+                        "start_time": 280.71,
+                        "end_time": 280.89
+                    },
+                    {
+                        "text": "su",
+                        "start_time": 280.89,
+                        "end_time": 281.01
+                    },
+                    {
+                        "text": "novia",
+                        "start_time": 281.01,
+                        "end_time": 281.46
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/62.wav",
+        "start_time": 281.623,
+        "end_time": 289.592,
+        "voices": [
+            {
+                "voice": "Voz 1694",
+                "start_time": 281.623,
+                "end_time": 289.592,
+                "trans": [
+                    {
+                        "text": "madre",
+                        "start_time": 281.64,
+                        "end_time": 282.09
+                    },
+                    {
+                        "text": "acude",
+                        "start_time": 282.09,
+                        "end_time": 282.48
+                    },
+                    {
+                        "text": "como",
+                        "start_time": 282.48,
+                        "end_time": 282.72
+                    },
+                    {
+                        "text": "testigo",
+                        "start_time": 282.72,
+                        "end_time": 283.85
+                    },
+                    {
+                        "text": "este",
+                        "start_time": 283.85,
+                        "end_time": 284.13
+                    },
+                    {
+                        "text": "viernes",
+                        "start_time": 284.13,
+                        "end_time": 284.64
+                    },
+                    {
+                        "text": "veintitrés",
+                        "start_time": 284.64,
+                        "end_time": 285.09
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 285.09,
+                        "end_time": 285.18
+                    },
+                    {
+                        "text": "noviembre",
+                        "start_time": 285.18,
+                        "end_time": 285.55
+                    },
+                    {
+                        "text": "se",
+                        "start_time": 285.55,
+                        "end_time": 285.64
+                    },
+                    {
+                        "text": "inaugura",
+                        "start_time": 285.64,
+                        "end_time": 286.08
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 286.08,
+                        "end_time": 286.23
+                    },
+                    {
+                        "text": "nueva",
+                        "start_time": 286.23,
+                        "end_time": 286.62
+                    },
+                    {
+                        "text": "Gran",
+                        "start_time": 286.62,
+                        "end_time": 286.92
+                    },
+                    {
+                        "text": "Via",
+                        "start_time": 286.92,
+                        "end_time": 287.22
+                    },
+                    {
+                        "text": "con",
+                        "start_time": 287.22,
+                        "end_time": 287.4
+                    },
+                    {
+                        "text": "más",
+                        "start_time": 287.4,
+                        "end_time": 287.61
+                    },
+                    {
+                        "text": "espacio",
+                        "start_time": 287.61,
+                        "end_time": 288.0
+                    },
+                    {
+                        "text": "para",
+                        "start_time": 288.0,
+                        "end_time": 288.15
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 288.15,
+                        "end_time": 288.3
+                    },
+                    {
+                        "text": "peatones",
+                        "start_time": 288.3,
+                        "end_time": 289.02
+                    },
+                    {
+                        "text": "y",
+                        "start_time": 289.02,
+                        "end_time": 289.11
+                    },
+                    {
+                        "text": "menos",
+                        "start_time": 289.11,
+                        "end_time": 289.41
+                    },
+                    {
+                        "text": "para",
+                        "start_time": 289.41,
+                        "end_time": 289.59
+                    },
+                    {
+                        "text": "los",
+                        "start_time": 289.59,
+                        "end_time": 289.77
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/63.wav",
+        "start_time": 290.049,
+        "end_time": 292.662,
+        "voices": [
+            {
+                "voice": "Voz 1694",
+                "start_time": 290.049,
+                "end_time": 292.662,
+                "trans": [
+                    {
+                        "text": "un",
+                        "start_time": 290.55,
+                        "end_time": 290.73
+                    },
+                    {
+                        "text": "acto",
+                        "start_time": 290.73,
+                        "end_time": 291.21
+                    },
+                    {
+                        "text": "oficial",
+                        "start_time": 291.21,
+                        "end_time": 292.26
+                    },
+                    {
+                        "text": "presidido",
+                        "start_time": 292.26,
+                        "end_time": 292.77
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "path": "/srv/shared_folder/audio_5m/64.wav",
+        "start_time": 293.049,
+        "end_time": 299.473,
+        "voices": [
+            {
+                "voice": "Voz 1694",
+                "start_time": 293.049,
+                "end_time": 299.473,
+                "trans": [
+                    {
+                        "text": "Carmena",
+                        "start_time": 293.4,
+                        "end_time": 294.12
+                    },
+                    {
+                        "text": "lava",
+                        "start_time": 294.12,
+                        "end_time": 294.42
+                    },
+                    {
+                        "text": "inaugurar",
+                        "start_time": 294.42,
+                        "end_time": 294.83
+                    },
+                    {
+                        "text": "a",
+                        "start_time": 294.83,
+                        "end_time": 294.87
+                    },
+                    {
+                        "text": "las",
+                        "start_time": 294.87,
+                        "end_time": 295.05
+                    },
+                    {
+                        "text": "siete",
+                        "start_time": 295.05,
+                        "end_time": 295.32
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 295.32,
+                        "end_time": 295.41
+                    },
+                    {
+                        "text": "la",
+                        "start_time": 295.41,
+                        "end_time": 295.5
+                    },
+                    {
+                        "text": "tarde",
+                        "start_time": 295.5,
+                        "end_time": 295.86
+                    },
+                    {
+                        "text": "ocho",
+                        "start_time": 295.86,
+                        "end_time": 296.13
+                    },
+                    {
+                        "text": "grados",
+                        "start_time": 296.13,
+                        "end_time": 296.4
+                    },
+                    {
+                        "text": "ahora",
+                        "start_time": 296.4,
+                        "end_time": 296.52
+                    },
+                    {
+                        "text": "mismo",
+                        "start_time": 296.52,
+                        "end_time": 296.73
+                    },
+                    {
+                        "text": "en",
+                        "start_time": 296.73,
+                        "end_time": 296.79
+                    },
+                    {
+                        "text": "el",
+                        "start_time": 296.79,
+                        "end_time": 296.85
+                    },
+                    {
+                        "text": "centro",
+                        "start_time": 296.85,
+                        "end_time": 297.12
+                    },
+                    {
+                        "text": "de",
+                        "start_time": 297.12,
+                        "end_time": 297.24
+                    },
+                    {
+                        "text": "Madrid",
+                        "start_time": 297.24,
+                        "end_time": 301.57
+                    }
+                ]
+            }
+        ]
+    }
+]
