@@ -1,7 +1,9 @@
-from ContainerHandler import ContainerHandler
 import Pyro4
-from utils.IO import read_json, copy_acoustic_model, copy_dict, save_new_model, clean_tmp_folder, process_output
+
+from ContainerHandler import ContainerHandler
 from utils import sphinx_utils
+from utils.IO import read_json, copy_acoustic_model, copy_dict, save_new_model, clean_tmp_folder, process_output, \
+    check_file
 
 
 @Pyro4.expose
@@ -22,14 +24,26 @@ class SPHINXBASEHandler(ContainerHandler):
     def info(self):
         pass
 
+    def reduce_language_model(self, language_model_path, language_model_path_out):
+        """
+        TODO DOCUMENTATION
+        :param language_model_path:
+        :param language_model_path_out:
+        :return:
+        """
+        return sphinx_utils.reduce_language_model(language_model_path, language_model_path_out)
+
     def generate_acousticmodel(self, input_json, output_folder):
         clean_tmp_folder()
 
         info_json = read_json(input_json)
 
         audio_info_path = info_json['audio_info_path']
+        check_file(audio_info_path)
         language_model_path = info_json['language_model']
+        check_file(language_model_path)
         dictionary_path = info_json['dictionary']
+        check_file(dictionary_path)
 
         fileids_path, transcription_path = sphinx_utils.generate_files_structure(read_json(audio_info_path))
 
@@ -51,14 +65,11 @@ class SPHINXBASEHandler(ContainerHandler):
 
         save_new_model(model_folder)
 
-        # clean_tmp_folder()
+        clean_tmp_folder()
 
         return process_output(output_folder)
 
 
 if __name__ == '__main__':
-    import os
-
-    # os.chdir('/opt/project')
     handler = SPHINXBASEHandler('SPHINXBASE', 'PYRO:MainController@localhost:4040')
-    print(handler.run(input_json='resources/input2.json', output_folder='/srv/shared_folder'))
+    print(handler.run(input_json='/srv/shared_folder/input_sphinxbase.json', output_folder='/srv/shared_folder'))

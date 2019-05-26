@@ -1,8 +1,8 @@
-import subprocess
-from utils import IO
-from os import path, makedirs
-
 import shutil
+import subprocess
+from os import path
+
+from utils import IO
 
 
 def generate_files_structure(info_json):
@@ -156,6 +156,27 @@ def mllr_transformation(model_folder):
     return out_file
 
 
+def reduce_language_model(language_model_path, out_language_model_path):
+    """
+    TODO DOCUMENTATION
+    :param language_model_path:
+    :param out_language_model_path:
+    :return:
+    """
+    command = 'sphinx_lm_convert'
+
+    script = [command,
+              '-i', language_model_path,
+              '-o', out_language_model_path,
+              ]
+
+    p = subprocess.call(script)
+    if p != 0:
+        raise Exception('Error in language model reduction')
+
+    return out_language_model_path
+
+
 def map_transformation(model_folder):
     # map_adapt \
     # -moddeffn resources/model/es/mdef.txt \
@@ -170,9 +191,10 @@ def map_transformation(model_folder):
     # -mapmixwfn resources/tmp/audios/es/mixture_weights \
     # -maptmatfn resources/tmp/audios/es/transition_matrices
 
+    base = IO.get_sphinxtrain_folder()
     command = 'map_adapt'
 
-    script = [command,
+    script = [path.join(base, command),
               '-moddeffn', path.join(IO.get_base_model_path(), 'mdef.txt'),
               '-ts2cbfn', '.ptm.',
               '-meanfn', path.join(IO.get_base_model_path(), 'means'),
