@@ -1,6 +1,5 @@
 
 \.idea/
-\lib
 *.pyc
 src/__pycache__/
 resources/tmp
